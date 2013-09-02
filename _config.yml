@@ -1,9 +1,7 @@
-name: "Syeef Karim Dot Com"
-description: "A whole bunch of crap"
+name: "Syeef Karim - Graphic Development"
+description: "Documenting the twists and turns it takes me to reach the start of my career"
 
-url: "http://localhost:4000"
-
-paginate: 10
+url: "http://syeef.github.io/website/"
 
 markdown: rdiscount
 permalink: pretty
