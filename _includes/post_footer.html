@@ -4,7 +4,7 @@
 		<div class="sixteen columns">
 			<div id="prev-next">
 				{% if page.previous && if page.next %}
-					<a rel="prev" href="{{ site.url }}{{ page.previous.url }}">Previous Post</a> / <a rel="next" href="{{ site.url }}{{ page.next.url }}">Next Post</a>
+					<a rel="prev" href="{{ site.url }}{{ page.previous.url }}">Previous Post</a> / <a rel="next" href="{{ site.url }}{{ page.next.url }}">Next Post</a> {% break %}
 				{% elsif page.previous %}
 					<a rel="prev" href="{{ site.url }}{{ page.previous.url }}">Previous Post</a>
 				{% elsif page.next %}
