@@ -140,6 +140,7 @@ ul#post-title-wrapper {
 }
 
 #prev-next {
+	width: 90%;
 	margin: 0 auto;
 }
 
@@ -217,7 +218,6 @@ h2#title-color-white, h4#title-color-white {
 span#about-big-word {
 	font-size: 100px;
 	font-weight: bold;
-	border: 1px red solid;
 }
 p#about-tag-line {
 	color: #800000;
@@ -276,6 +276,11 @@ p#about-tag-line {
 	
 	#navigation li {
 		padding: 0px 15px 0px 0px;
+	}
+	
+	span#about-big-word {
+		font-size: 70px;
+		font-weight: bold;
 	}
 	
 	}
