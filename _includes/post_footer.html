@@ -5,11 +5,9 @@
 			<div id="prev-next">
 				{% if page.previous && if page.next %}
 					<a rel="prev" href="{{ site.url }}{{ page.previous.url }}">Previous Post</a> / <a rel="next" href="{{ site.url }}{{ page.next.url }}">Next Post</a>
-				{% endif %}
-				{% if page.previous %}
+				{% elsif page.previous %}
 					<a rel="prev" href="{{ site.url }}{{ page.previous.url }}">Previous Post</a>
-				{% endif %}
-				{% if page.next %}
+				{% elsif page.next %}
 					<a rel="next" href="{{ site.url }}{{ page.next.url }}">Next Post</a>
 				{% endif %}
 			</div> <!--END OF PREV-NEXT-->
