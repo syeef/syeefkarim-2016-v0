@@ -139,6 +139,10 @@ ul#post-title-wrapper {
 	margin: 100px 0px 0px 0px;
 }
 
+#prev-next {
+	margin: 0 auto;
+}
+
 /* #Link Styles
 ================================================== */
 ul#navigation a:hover {
