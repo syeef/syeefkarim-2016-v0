@@ -1,19 +1,18 @@
 	<div id="footer">
-		<div class="container">
-		
-		<div class="sixteen columns">
-			<div id="prev-next">
-				{% if page.previous && if page.next %}
-					<a rel="prev" href="{{ site.url }}{{ page.previous.url }}">Previous Post</a> / <a rel="next" href="{{ site.url }}{{ page.next.url }}">Next Post</a> {% break %}
-				{% elsif page.previous %}
-					<a rel="prev" href="{{ site.url }}{{ page.previous.url }}">Previous Post</a>
-				{% elsif page.next %}
-					<a rel="next" href="{{ site.url }}{{ page.next.url }}">Next Post</a>
-				{% endif %}
-			</div> <!--END OF PREV-NEXT-->
-		</div>
-
-		<hr />
+	
+		<div id="prev-next">
+		{% if page.previous.url %}
+			<a href="{{ page.previous.url }}">Previous</a>
+		{% endif %}
+		{% if page.previous.url and page.next.url %}
+			/
+		{% endif %}
+		{% if page.next.url %}
+			<a href="{{ page.next.url }}">Next</a>
+		{% endif %}
+		</div> <!--END OF PREV-NEXT-->
+	
+		<div class="container"> <hr />
 			
 			<div class="one-third column">
 				<h1 id="footer-title">Find Me!</h1>
