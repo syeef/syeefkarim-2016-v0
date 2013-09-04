@@ -11,4 +11,4 @@ layout: post
 **Aim:** To recreate a page similar to the Spotify homepage, however I want to make it for fashion bloggers who post their photos on to Lookbook.nu     
 
 **Day 1: Wednesday**     
-Today I have established the goals and aim for this project. I have also found a couple of articles online which I feel can help me create the effect I am after. Although I haven't created a mockup of what exactly I want to create I have a vague idea of what I would be happy with.
+Today I have established the goals and aim for this project. I have also found a couple of articles online which I feel can help me create the effect I am after. Although I haven't created a mockup of what exactly I want to create, I have a vague idea of what I would be happy with.
