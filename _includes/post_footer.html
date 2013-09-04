@@ -1,5 +1,19 @@
 	<div id="footer">
-		<div class="container"> <hr />
+		<div class="container">
+		
+		<div id="prev-next">
+		{% if page.previous.url %}
+		<a href="{{ site.url }}{{ page.previous.url }}">Previous</a>
+		{% endif %}
+		{% if page.previous.url and page.next.url %}
+		/
+		{% endif %}
+		{% if page.next.url %}
+		<a href="{{ site.url }}{{ page.next.url }}">Next</a>
+		{% endif %}
+		</div> <!--END OF PREV-NEXT-->
+		
+		<hr />
 			
 			<div class="one-third column">
 				<h1 id="footer-title">Find Me!</h1>
