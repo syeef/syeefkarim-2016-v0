@@ -130,7 +130,7 @@ ul#post-title-wrapper {
 	padding: 0px 0px 0px 0px;
 }
 
-#post-content, #prev-next {
+#post-content {
 	width: 70%;
 	margin: 0 auto;
 }
@@ -139,6 +139,10 @@ ul#post-title-wrapper {
 	margin: 100px 0px 0px 0px;
 }
 
+#prev-next {
+	width: 100%;
+	text-align: center;
+}
 /* #Link Styles
 ================================================== */
 ul#navigation a:hover {
