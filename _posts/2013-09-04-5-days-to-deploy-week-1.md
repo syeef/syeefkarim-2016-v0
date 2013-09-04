@@ -8,8 +8,8 @@ titleColor: black
 layout: post
 ---
 
-**Day 1: Wednesday**
-Goals: To work more with parallax and Jekyll
+**Day 1: Wednesday**     
+Goals: To work more with parallax and Jekyll     
 Aim: To recreate a page similar to the Spotify homepage, however I want to make it for fashion bloggers who post their photos on to Lookbook.nu
 
 Today I have established the goals and aim for this project. I have also found a couple of articles online which I feel can help me create the effect I am after. Although I haven't created a mockup of what exactly I want to create I have a vague idea of what I would be happy with.
