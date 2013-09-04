@@ -154,7 +154,6 @@ a#about-links {
 }
 a#about-links:hover {
 	text-decoration: underline;
-	target: _blank;
 }
 
 /* #Sticky Footer Solution
