@@ -130,18 +130,13 @@ ul#post-title-wrapper {
 	padding: 0px 0px 0px 0px;
 }
 
-#post-content {
+#post-content, #prev-next {
 	width: 70%;
 	margin: 0 auto;
 }
 
 #about-page-wrap {
 	margin: 100px 0px 0px 0px;
-}
-
-#prev-next {
-	width: 90%;
-	margin: 0 auto;
 }
 
 /* #Link Styles
