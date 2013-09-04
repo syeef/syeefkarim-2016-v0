@@ -34,4 +34,16 @@
 		</div>
 	</div> <!--END OF CONTAINER-->
 	
+	<div id="prev-next">
+	{% if page.previous.url %}
+	<a href="{{ page.previous.url }}">Previous</a>
+	{% endif %}
+	{% if page.previous.url and page.next.url %}
+	/
+	{% endif %}
+	{% if page.next.url %}
+	<a href="{{ page.next.url }}">Next</a>
+	{% endif %}
+	</div> <!--END OF PREV-NEXT-->
+	
 {% include post_footer.html %}
