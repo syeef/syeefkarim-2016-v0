@@ -4,4 +4,4 @@ description: Documenting the twists and turns it takes me to reach the start of 
 url: http://syeef.github.io/website/
 
 markdown: rdiscount
-permalink: pretty
+permalink: /:title
