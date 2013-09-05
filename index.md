@@ -2,7 +2,7 @@
 layout: about
 title: Welcome!
 bigWord: Welcome!
-tagLine: My name is Syeef Karim and I enjoy designing for the web.
+tagLine: My name is Syeef Karim. I enjoy designing and creating for the web.
 ---
 
 I hope to share and express my opinions here as well as showcase the work I have made. I am currently still studying but I have high hopes for my future.
