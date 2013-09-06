@@ -22,3 +22,7 @@ mkdir \_layouts \_includes \_posts
 touch \_config.yml     
 
 I've also read an article and played with an example of how someone else has created the parallax effect. I have decided to try to write the javascript by scratch as I find the examples don't really handle background images with different heights really well. Hopefully this decision won't comeback to bite me in the ass!
+
+**Day 3: Friday**
+C'mon it's a Friday, I'm surprised I managed to get anything done today to be honest! Nevertheless I did play around with some Javascript and I'm close to getting the effect that I'm after. I've realised that there are literally countless numbers of ways of doing this effect, so although it may not be the best method, at least I can say I tried!     
+Hopefully tomorrow after work I'll be able to play around a bit more! :)
