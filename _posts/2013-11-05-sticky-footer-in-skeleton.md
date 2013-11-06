@@ -16,8 +16,10 @@ However, during the rewrite of my website, I wanted to make it responsive and ma
 The solution is easier than you think, but if you were like me and got a bit caught up in Skeleton, you might have over thought it!
 
 HTML
+
 Wrap your container div with a div called footer.
-<code>
+
+"
 <div class='footer'>
 	<div class='container'>
 		<div class='half-column'>
@@ -26,7 +28,7 @@ Wrap your container div with a div called footer.
 		</div>
 	</div>
 </div> <!--END OF FOOTER-->
-</code>
+"
 
 CSS
 <pre>
