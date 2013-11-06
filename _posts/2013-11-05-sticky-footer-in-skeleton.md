@@ -3,7 +3,7 @@ title: Sticky Footer in Skeleton Boilerplate
 subTitle: How to create a sticky footer using the Skeleton Boilerplate
 summary: Just a quick explanation of how I managed to create a sticky footer using the Skeleton HTML5 Boilerplate
 image:
-forceHeight: true
+forceHeight: false
 titleColor: black
 layout: post
 ---
@@ -18,14 +18,14 @@ The solution is easier than you think, but if you were like me and got a bit cau
 HTML
 Wrap your container div with a div called footer.
 
-"<div class='footer'>
+<div class='footer'>
 	<div class='container'>
 		<div class='half-column'>
 		</div>
 		<div class='half-coloum'>
 		</div>
 	</div>
-</div> <!--END OF FOOTER-->"
+</div> <!--END OF FOOTER-->
 
 CSS
 
