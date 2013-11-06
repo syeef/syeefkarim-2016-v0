@@ -19,16 +19,14 @@ HTML
 
 Wrap your container div with a div called footer.
 
-"
-<div class='footer'>
+"<div class='footer'>
 	<div class='container'>
 		<div class='half-column'>
 		</div>
 		<div class='half-coloum'>
 		</div>
 	</div>
-</div> <!--END OF FOOTER-->
-"
+</div> <!--END OF FOOTER-->"
 
 CSS
 <pre>
