@@ -1,7 +1,7 @@
 ---
 layout: about
 title: Welcome!
-bigWord: Welcome!!!
+bigWord: Welcome!
 tagLine: My name is Syeef Karim. I enjoy designing and creating for the web.
 ---
 
