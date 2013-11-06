@@ -14,9 +14,10 @@ However, during the rewrite of my website, I wanted to make it responsive and ma
 
 **The Solution**
 The solution is easier than you think, but if you were like me and got a bit caught up in Skeleton, you might have over thought it!
+
 HTML
 Wrap your container div with a div called footer.
-HTML
+
 "<div class='footer'>
 	<div class='container'>
 		<div class='half-column'>
@@ -27,13 +28,16 @@ HTML
 </div> <!--END OF FOOTER-->"
 
 CSS
+
 html {
 	position: relative;
 	min-height: 100%;
 }
+
 body {
 	margin: 0 0 170px 0; /* bottom = footer height */
 }
+
 .footer {
 	position: absolute;
 	left: 0;
