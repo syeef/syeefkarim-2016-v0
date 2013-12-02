@@ -149,10 +149,10 @@ ul#navigation a:hover {
 	color: #800000;
 }
 
-a#about-links {
+a#links {
 	color: #800000;
 }
-a#about-links:hover {
+a#links:hover {
 	text-decoration: underline;
 }
 

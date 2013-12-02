@@ -8,7 +8,7 @@
 	<!-- Basic Page Needs
   ================================================== -->
 	<meta charset="utf-8">
-	<title>Syeef Karim - Graphic Development - 5 Days to Deploy - Week 1</title>
+	<title>Syeef Karim - Graphic Development - Sticky Footer in Skeleton Boilerplate</title>
 	<meta name="description" content="Documenting the twists and turns it takes me to reach my career">
 	<meta name="author" content="Syeef Karim">
 
@@ -79,11 +79,11 @@
 
 			<ul id="post-title-wrapper">
 
-				<li id="post-title"><h2 id="title-color-black">5 Days to Deploy - Week 1</h2></li>
+				<li id="post-title"><h2 id="title-color-black">Sticky Footer in Skeleton Boilerplate</h2></li>
 				<br />
-				<li id="post-subTitle"><h4 id="title-color-black">This week I'm going to play around with some parallax and Jekyll</h4></li>
+				<li id="post-subTitle"><h4 id="title-color-black">How to create a sticky footer using the Skeleton Boilerplate</h4></li>
 				<br />
-				<li id="post-date"><h4 id="title-color-black">September 04, 2013</h4></li>
+				<li id="post-date"><h4 id="title-color-black">November 05, 2013</h4></li>
 
 			</ul> <!---END OF POST-TITLE-WRAPPER-->
 
@@ -92,11 +92,49 @@
 			<hr class="maroon"/>
 
 			<div id="post-content">
-				<p><p><strong>Day 1: Wednesday</strong>
-Goals: To work more with parallax and Jekyll
-Aim: To recreate a page similar to the Spotify homepage, however I want to make it for fashion bloggers who post their photos on to Lookbook.nu</p>
+				<p><p><strong>The Problem</strong>
+I've always been a fan of the sticky footer. I like the idea of having all the content at the top of the page, and then some whitespace before I reach the end of the page. It creates more structure (structure is always good.)</p>
 
-<p>Today I have established the goals and aim for this project. I have also found a couple of articles online which I feel can help me create the effect I am after. Although I haven't created a mockup of what exactly I want to create I have a vague idea of what I would be happy with.</p>
+<p>However, during the rewrite of my website, I wanted to make it responsive and maintain some concepts from the older design e.g. the sticky footer. This was a little tricky to accomplish than I had anticipated.</p>
+
+<p><strong>The Solution</strong>
+The solution is easier than you think, but if you were like me and got a bit caught up in Skeleton, you might have over thought it!</p>
+
+<p>HTML
+Wrap your container div with a div called footer.</p>
+
+<p>"<div class='footer'>
+    <div class='container'>
+        <div class='half-column'>
+        </div>
+        <div class='half-coloum'>
+        </div>
+    </div>
+</div> <!--END OF FOOTER-->"</p>
+
+<p>CSS</p>
+
+<pre>
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin: 0 0 170px 0; /* bottom = footer height */
+}
+
+.footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 170px;
+    width: 100%;
+}
+</pre>
+
+
+<p>Hope this manages to help you out! Good luck!</p>
 </p>
 			</div>
 
@@ -128,7 +166,7 @@ Aim: To recreate a page similar to the Spotify homepage, however I want to make 
 				<h1 id="footer-title">Recent Posts</h1>
 					<ul>
 						
-						<li><a href="/5-days-to-deploy-week-1">5 Days to Deploy - Week 1</a></li>
+						<li><a href="/sticky-footer-in-skeleton">Sticky Footer in Skeleton Boilerplate</a></li>
 						
 					</ul>
 			</div>
@@ -148,7 +186,7 @@ Aim: To recreate a page similar to the Spotify homepage, however I want to make 
 <script type="text/javascript" src="http://syeefkarim.com//js/skrollr.js"></script>
 <script type="text/javascript">
 	skrollr.init({
-		forceHeight: true
+		forceHeight: false
 	});
 </script>
 </body>
