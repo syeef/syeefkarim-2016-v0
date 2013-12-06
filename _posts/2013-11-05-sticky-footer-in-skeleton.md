@@ -32,19 +32,19 @@ CSS
     html {
 	position: relative;
 	min-height: 100%;
-}
+}    
 
-body {
+    body {
 	margin: 0 0 170px 0; /*bottom = footer height*/
-}
+}    
 
-.footer {
+    .footer {
 	position: absolute;
 	left: 0;
 	bottom: 0;
 	height: 170px;
 	width: 100%;
-    }
+}    
 
 
 
