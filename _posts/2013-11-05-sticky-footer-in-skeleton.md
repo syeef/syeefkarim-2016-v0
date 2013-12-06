@@ -18,7 +18,7 @@ The solution is easier than you think, but if you were like me and got a bit cau
 HTML
 Wrap your container div with a div called footer.
 
-<!--
+<code>
 <div class='footer'>
 	<div class='container'>
 		<div class='half-column'>
@@ -27,7 +27,7 @@ Wrap your container div with a div called footer.
 		</div>
 	</div>
 </div>
--->
+</code>
 
 CSS
 /*
