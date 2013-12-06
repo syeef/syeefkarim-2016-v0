@@ -28,6 +28,7 @@ Wrap your container div with a div called footer.
     </div>  
 
 CSS  
+
     html {
 	position: relative;
 	min-height: 100%;
