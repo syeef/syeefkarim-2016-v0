@@ -27,7 +27,7 @@ Wrap your container div with a div called footer.
 	</div>
     </div>
   
-CSS  
+  CSS  
 
     html {
 	position: relative;
