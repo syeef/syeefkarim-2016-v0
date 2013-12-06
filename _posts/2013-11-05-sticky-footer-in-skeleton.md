@@ -15,7 +15,7 @@ However, during the rewrite of my website, I wanted to make it responsive and ma
 **The Solution**
 The solution is easier than you think, but if you were like me and got a bit caught up in Skeleton, you might have over thought it!
 
-HTML
+HTML  
 Wrap your container div with a div called footer.
 
     <div class='footer'>
@@ -27,9 +27,8 @@ Wrap your container div with a div called footer.
 	</div>
     </div>
 
-CSS
-/*
-html {
+CSS  
+    html {
 	position: relative;
 	min-height: 100%;
 }
@@ -44,8 +43,7 @@ body {
 	bottom: 0;
 	height: 170px;
 	width: 100%;
-}
-*/
+    }
 
 
 
