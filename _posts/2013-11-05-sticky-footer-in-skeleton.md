@@ -25,8 +25,9 @@ Wrap your container div with a div called footer.
 		<div class='half-column'>
 		</div>
 	</div>
-    </div>
+</div>    
   
+
 CSS  
 
     html {
