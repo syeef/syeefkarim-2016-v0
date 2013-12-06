@@ -35,7 +35,7 @@ CSS
 }
 
 body {
-	margin: 0 0 170px 0; [bottom = footer height]
+	margin: 0 0 170px 0; /*bottom = footer height*/
 }
 
 .footer {
