@@ -26,7 +26,7 @@ Wrap your container div with a div called footer.
 		</div>
 	</div>
     </div>
-  
+
 CSS  
 
     html {
