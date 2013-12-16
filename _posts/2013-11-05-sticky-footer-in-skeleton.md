@@ -18,6 +18,7 @@ The solution is easier than you think, but if you were like me and got a bit cau
 HTML  
 Wrap your container div with a div called footer.
 
+{% highlight html %}
     <div class='footer'>
 	<div class='container'>
 		<div class='half-column'>
@@ -26,7 +27,9 @@ Wrap your container div with a div called footer.
 		</div>
 	</div>
     </div>
-  
+{% endhighlight %}  
+
+{% highlight css %}
   CSS  
 
     html {
@@ -45,7 +48,7 @@ Wrap your container div with a div called footer.
 	height: 170px;
 	width: 100%;
 }    
-
+{% endhighlight %}
 
 
 Hope this manages to help you out! Good luck!
