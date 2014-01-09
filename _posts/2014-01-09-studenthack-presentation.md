@@ -1,5 +1,5 @@
 ---
-title: StudentHack Presentation to MMU Students
+title: StudentHack Presentation
 subTitle: Why you should really consider coming to a hackathon
 summary: A presentation I gave to MMU students trying to convince them why they should attend StudentHack!
 image:
