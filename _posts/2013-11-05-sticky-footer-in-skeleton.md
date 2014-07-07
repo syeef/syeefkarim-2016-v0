@@ -29,6 +29,7 @@ Wrap your container div with a div called footer.
     </div>
 {% endhighlight %}  
 
+
 **CSS**
 Apply the CSS below to the appropriate class.
 
@@ -51,5 +52,5 @@ body {
 }    
 {% endhighlight %}
 
+
 Hope this manages to help you out! Good luck!
-    2
