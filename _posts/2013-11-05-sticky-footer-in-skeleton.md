@@ -48,8 +48,7 @@ body {
 	bottom: 0;
 	height: 170px;
 	width: 100%;
-}    
+}
 {% endhighlight %}
 
-
-Hope this manages to help you out! Good luck! 21
+Hope this manages to help you out! Good luck! 22
