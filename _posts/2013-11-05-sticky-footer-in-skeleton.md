@@ -30,8 +30,8 @@ Wrap your container div with a div called footer.
 {% endhighlight %}    
     
 **CSS**  
-Wrap your container div with a div called footer.
-
+Apply the CSS below to the appropriate classes.
+</br>
 {% highlight html %}
 html {
 	position: relative;
