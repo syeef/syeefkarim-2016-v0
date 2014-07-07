@@ -28,10 +28,10 @@ Wrap your container div with a div called footer.
 	</div>
     </div>
 {% endhighlight %}    
-    
+</br>    
 **CSS**  
 Apply the CSS below to the appropriate classes.
-</br>
+
 {% highlight html %}
 html {
 	position: relative;
@@ -52,4 +52,4 @@ body {
 {% endhighlight %}
 
 
-Hope this manages to help you out! Good luck! 42
+Hope this manages to help you out! Good luck! 23
