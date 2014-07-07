@@ -27,8 +27,8 @@ Wrap your container div with a div called footer.
 		</div>
 	</div>
     </div>
-{% endhighlight %}    
-</br>    
+{% endhighlight %}
+</br>
 **CSS**  
 Apply the CSS below to the appropriate classes.
 
@@ -49,6 +49,6 @@ body {
 	height: 170px;
 	width: 100%;
 }
-{% endhighlight %}    
+{% endhighlight %}
 
-Hope this manages to help you out! Good luck! 24
+Hope this manages to help you out! Good luck! 26
