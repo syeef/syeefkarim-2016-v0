@@ -29,9 +29,8 @@ Wrap your container div with a div called footer.
     </div>
 {% endhighlight %}  
 
-
-**CSS**  
-Apply the CSS below to the appropriate class.
+**HTML**  
+Wrap your container div with a div called footer.
 
 {% highlight css %}
 html {
