@@ -29,19 +29,19 @@ Wrap your container div with a div called footer.
     </div>
 {% endhighlight %}  
 
-{% highlight css %}
-  CSS  
+  CSS
 
-    html {
+{% highlight css %}
+html {
 	position: relative;
 	min-height: 100%;
 }    
 
-    body {
+body {
 	margin: 0 0 170px 0; /*bottom = footer height*/
 }    
 
-    .footer {
+.footer {
 	position: absolute;
 	left: 0;
 	bottom: 0;
@@ -49,6 +49,5 @@ Wrap your container div with a div called footer.
 	width: 100%;
 }    
 {% endhighlight %}
-
 
 Hope this manages to help you out! Good luck!
