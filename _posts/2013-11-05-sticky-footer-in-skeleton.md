@@ -49,6 +49,6 @@ body {
 	height: 170px;
 	width: 100%;
 }
-{% endhighlight %}
+{% endhighlight %}    
 
-Hope this manages to help you out! Good luck! 22
+Hope this manages to help you out! Good luck! 24
