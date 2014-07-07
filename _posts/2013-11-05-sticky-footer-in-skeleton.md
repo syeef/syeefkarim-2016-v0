@@ -26,9 +26,9 @@ Wrap your container div with a div called footer.
 		<div class='half-column'>
 		</div>
 	</div>
-    </div>    
-{% endhighlight %}  
-
+    </div>
+{% endhighlight %}    
+    
 **HTML**  
 Wrap your container div with a div called footer.
 
@@ -52,4 +52,4 @@ body {
 {% endhighlight %}
 
 
-Hope this manages to help you out! Good luck! 23
+Hope this manages to help you out! Good luck! 42
