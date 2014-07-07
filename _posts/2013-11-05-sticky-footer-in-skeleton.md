@@ -29,10 +29,10 @@ Wrap your container div with a div called footer.
     </div>
 {% endhighlight %}    
     
-**HTML**  
+**CSS**  
 Wrap your container div with a div called footer.
 
-{% highlight css %}
+{% highlight html %}
 html {
 	position: relative;
 	min-height: 100%;
