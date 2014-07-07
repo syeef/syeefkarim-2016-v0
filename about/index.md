@@ -5,9 +5,11 @@ bigWord: Hey.
 tagLine: My name is Syeef Karim. I enjoy designing and creating for the web.
 ---
 
-I live in Manchester, UK and study BSc Computer Science at Manchester Metropolitan University. However, I wasn't always in Manchester. In fact I never lived in the UK until I was 12. I was raised thousands of miles away in Florida, USA.
+I live in Manchester, UK and recently graduated from Manchester Metropolitan University with a BSc in Computer Science. However, I wasn't always in Manchester. In fact I never lived in the UK until I was 12. I was raised thousands of miles away in Florida, USA.
 
-I enjoy spending my time sketching ideas, picking pixels in Photoshop, or smashing keys together to output some CSS & HTML. Currently I'm about to start my third year of university, but still have hopes that I might secure an internship (fingers crossed).
+I enjoy spending my time sketching ideas, pushing pixels in Photoshop, or prototyping in CSS & HTML. I am also part of the team behind <a id="links" href="http://www.studenthack.com/" target="_blank">StudentHack</a> and <a id="links" href="http://www.mlh.io" target="_blank">Major League Hacking UK</a>.
+
+Having recently graduated, I'm currently considering my options for the forthcoming year. Although it is all new to me, with the correct can-do attitude and a genuine ambition to succeed, anything is possible.
 
 "Every pixel counts!" It's the small details only noticed by a few that makes something ordinary that little bit more special. While trying to achieve a high attention to detail, I try to put a bit of my own personality into my work.
 
