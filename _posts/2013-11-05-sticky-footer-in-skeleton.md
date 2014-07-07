@@ -50,5 +50,5 @@ body {
 	width: 100%;
 }
 {% endhighlight %}
-
-Hope this manages to help you out! Good luck! 26
+</br>
+Hope this manages to help you out! Good luck!
