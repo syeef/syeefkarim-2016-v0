@@ -8,7 +8,7 @@ titleColor: black
 layout: post
 ---
 **The Problem**    
-What's my flight number? What airline am I with? When is this flight? How much did this cost? How do I check in? Do you find yourself ever asking some of these questions? When I see the state of some of my booking receipts from companies such as LastMinute, Orbitz or Expedia, I certainly do!
+What's my flight number? What airline am I with? When is this flight? How much did this cost? How long is the flight? Is there a stopover? How do I check in? Do you find yourself ever asking some of these questions? When I see the state of some of my booking receipts from companies such as LastMinute, Orbitz or Expedia, I certainly do!
 
 **The Solution**    
 <img src="{{ site.url }}/images/posts/Expedia.jpg" width="100%" height="auto">

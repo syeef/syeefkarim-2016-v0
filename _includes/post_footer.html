@@ -1,20 +1,20 @@
 	<div id="footer">
 		<div class="container">
-		
+
 		<div id="prev-next">
 		{% if page.previous.url %}
-		<a href="{{ site.url }}{{ page.previous.url }}">Previous Post</a>
+		<a href="{{ page.previous.url }}">Previous Post</a>
 		{% endif %}
 		{% if page.previous.url and page.next.url %}
 		/
 		{% endif %}
 		{% if page.next.url %}
-		<a href="{{ site.url }}{{ page.next.url }}">Next Post</a>
+		<a href="{{ page.next.url }}">Next Post</a>
 		{% endif %}
 		</div> <!--END OF PREV-NEXT-->
-		
+
 		<hr />
-			
+
 			<div class="one-third column">
 				<h1 id="footer-title">Find Me!</h1>
 					<ul>
@@ -24,7 +24,7 @@
 						<li>E: <a href="mailto:syeefkarim@gmail.com" target="_blank">syeefkarim@gmail.com</a></li>
 					</ul>
 			</div>
-		
+
 			<div class="one-third column">
 				<h1 id="footer-title">Recent Posts</h1>
 					<ul>
@@ -33,15 +33,15 @@
 						{% endfor %}
 					</ul>
 			</div>
-		
+
 			<div class="one-third column">
 				<h1 id="footer-title">About</h1>
-					<p>My name is Syeef Karim. I am a designer and student. Currently trying 
+					<p>My name is Syeef Karim. I am a designer and student. Currently trying
 					to navigate through life in Manchester, UK. <a href="{{ site.url }}about">Read a little more...</a></p>
 			</div>
 		</div> <!--END OF CONTAINER-->
 	</div> <!--END OF FOOTER-->
-	
+
 
 <!-- End Document
 ================================================== -->
