@@ -5,6 +5,4 @@ bigWord: Welcome!
 tagLine: My name is Syeef Karim. I enjoy designing and creating for the web.
 ---
 
-I hope to share and express my opinions here as well as showcase the work I have made. I am currently still studying but I have high hopes for my future.
-
-When people develop websites and applications today I feel as if they've almost forgotten who they are making them for. It's for the people! I hope to add a little personal touch to the work that I produce.
+I hope to share and express my opinions here as well as showcase some of the work I have made. Websites and applications currently feel like they've been designed and created by robots! Have we forgotten who's going to be using it? The people! I'd like to make things a bit more relatable and add a personal touch to the work that I produce.
