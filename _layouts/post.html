@@ -21,7 +21,7 @@
 				<br />
 				<li id="post-date"><h4 id="title-color-{{ page.titleColor }}">{{page.date | date: "%B %d, %Y"}}</h4></li>
 				<br />
-				<li id="post-date"><h4 id="title-color-{{ page.titleColor }}">{{page.words / 300}}</h4></li>
+				<li id="post-date"><h4 id="title-color-{{ page.titleColor }}">{{page.content | number_of_words | divide_by:180 | append: "min"}}</h4></li>
 
 
 			</ul> <!---END OF POST-TITLE-WRAPPER-->
