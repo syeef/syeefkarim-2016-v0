@@ -5,6 +5,7 @@ summary: What I think a receipt from an online travel website would look like in
 image:
 forceHeight: false
 titleColor: black
+words: 523
 layout: post
 ---
 **The Problem**    
