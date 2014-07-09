@@ -115,15 +115,15 @@ ul#post-title-wrapper {
 	display: inline-block;
 	list-style-type: none;
 }
-#post-title-wrapper li#post-title, #post-title-wrapper li#post-subTitle  {
+#post-title-wrapper li#post-title, {
 	margin: 0px 0px -30px 0px;
 	padding: 90px 0px 0px 0px;
 }
 
-/*#post-title-wrapper li#post-subTitle {
+#post-title-wrapper li#post-subTitle {
 	margin: 0px 0px -30px 0px;
 	padding: 0px 0px 0px 0px;
-}*/
+}
 
 #post-title-wrapper li#post-date {
 	margin: 0px 0px 0px 0px;
