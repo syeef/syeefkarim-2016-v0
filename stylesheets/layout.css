@@ -57,15 +57,15 @@ h1#footer-title {
 	text-transform: uppercase;
 	padding: 0px 10px 0px 0px;
 }
-#navigation li:last-child {  
-    padding: 0px 0px 0px 0px;  
+#navigation li:last-child {
+    padding: 0px 0px 0px 0px;
 }
 #navigation li a:hover {
 	color: #8f8f8f;
 }
 
-#footer ul { 
-  list-style: none; 
+#footer ul {
+  list-style: none;
 }
 #footer li {
 	margin: 0 0 0 0;
@@ -115,15 +115,15 @@ ul#post-title-wrapper {
 	display: inline-block;
 	list-style-type: none;
 }
-#post-title-wrapper li#post-title {
+#post-title-wrapper li#post-title, #post-title-wrapper li#post-subTitle  {
 	margin: 0px 0px -30px 0px;
 	padding: 90px 0px 0px 0px;
 }
 
-#post-title-wrapper li#post-subTitle {
+/*#post-title-wrapper li#post-subTitle {
 	margin: 0px 0px -30px 0px;
 	padding: 0px 0px 0px 0px;
-}
+}*/
 
 #post-title-wrapper li#post-date {
 	margin: 0px 0px 0px 0px;
@@ -232,56 +232,56 @@ p#about-tag-line {
 
 	/* Tablet Portrait size to standard 960 (devices and browsers) */
 	@media only screen and (min-width: 768px) and (max-width: 959px) {
-	
+
 	#post-title-wrapper li#post-title {
 		margin: 0px 0px -30px 0px;
 		padding: 50px 0px 0px 0px;
 	}
-	
+
 	}
 
 	/* All Mobile Sizes (devices and browser) */
 	@media only screen and (max-width: 767px) {
-	
+
 	#post-title-wrapper li#post-title {
 		margin: 0px 0px -30px 0px;
 		padding: 40px 0px 0px 0px;
 	}
-	
+
 	h2#title-color-black, h2#title-color-white {
 		font-size: 56px;
 		line-height: 56px;
 	}
-	
+
 	}
 
 	/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
 	@media only screen and (min-width: 480px) and (max-width: 767px) {
-	
+
 	}
 
 	/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
 	@media only screen and (max-width: 479px) {
-	
+
 	#post-title-wrapper li#post-title {
 		margin: 0px 0px -30px 0px;
 		padding: 0px 0px 0px 0px;
 	}
-	
+
 	h2#title-color-black, h2#title-color-white {
 		font-size: 46px;
 		line-height: 46px;
 	}
-	
+
 	#navigation li {
 		padding: 0px 15px 0px 0px;
 	}
-	
+
 	span#about-big-word {
 		font-size: 70px;
 		font-weight: bold;
 	}
-	
+
 	}
 
 
