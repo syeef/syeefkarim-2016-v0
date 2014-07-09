@@ -205,11 +205,11 @@ h2#portfolio-title {
 }
 
 /* POST */
-h2#title-color-black, h4#title-color-black {
+h2#title-color-black, h4#title-color-black, h6#title-color-black {
 	color: #000;
 }
 
-h2#title-color-white, h4#title-color-white {
+h2#title-color-white, h4#title-color-white, h6#title-color-white {
 	color: #FFF;
 }
 
