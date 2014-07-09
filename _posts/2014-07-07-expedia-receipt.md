@@ -23,4 +23,4 @@ What's my flight number? What airline am I with? When is this flight? How much d
     
 By no means is the a complete or final solution, but it's a start. Through countless iterations, conducting actual user research, and understanding the psychology of how users expect and naturally anticipate information to be shared can a genuinely new concept originate. This was simply a way to express how I would like the information to be shared (but let's be honest, anything is better than what we currently get!)
 
-Update 09/07/2014: I realise the use of the yellow for links was a poor decision looking at the final render. The thought process behind it was to add a sense of uniform branding to the publication (Expedia = blue & yellow, Kayak = orange & black, Momondo = purple & black, etc. ) 
+**Update 09/07/2014:** I realise the use of the yellow for links was a poor decision looking at the final render. The thought process behind it was to add a sense of uniform branding to the publication (Expedia = blue & yellow, Kayak = orange & black, Momondo = purple & black, etc. ) 
