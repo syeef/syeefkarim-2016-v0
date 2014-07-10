@@ -2,9 +2,9 @@
 title: Flight Itinerary Receipts Suck...
 subTitle: ...So I had a crack at what I'd like them to look like
 summary: What I think a receipt from an online travel website would look like in an ideal world. One can dream.
-image:
+image: /images/posts/airplanes.jpg
 forceHeight: false
-titleColor: black
+titleColor: white
 layout: post
 ---
 **The Problem**    
