@@ -23,4 +23,11 @@ What's my flight number? What airline am I with? When is this flight? How much d
     
 By no means is the a complete or final solution, but it's a start. Through countless iterations, conducting actual user research, and understanding the psychology of how users expect and naturally anticipate information to be shared can a genuinely new concept originate. This was simply a way to express how I would like the information to be shared (but let's be honest, anything is better than what we currently get!)
 
-**Update 09/07/2014:** I realise the use of the yellow for links was a poor decision looking at the final render. The thought process behind it was to add a sense of uniform branding to the publication (Expedia = blue & yellow, Kayak = orange & black, Momondo = purple & black, etc. ) 
+**Update 09/07/2014:** I realise the use of the yellow for links was a poor decision looking at the final render. The thought process behind it was to add a sense of uniform branding to the publication (Expedia = blue & yellow, Kayak = orange & black, Momondo = purple & black, etc. )
+
+**Update 13/07/2014:** Credit where credit is due!    
+Arrow: <a href="http://thenounproject.com/term/arrow/57623/" target="_blank">thenounproject.com/term/arrow/57623/</a>    
+Airplane: <a href="http://thenounproject.com/term/airplane/2644/" target="_blank">thenounproject.com/term/airplane/2644/</a>    
+Help: <a href="http://thenounproject.com/term/help/38009/" target="_blank">thenounproject.com/term/help/38009/</a>    
+Printer: <a href="http://thenounproject.com/term/printer/31594/" target="_blank">thenounproject.com/term/printer/31594/</a>    
+Map-Marker: <a href="http://thenounproject.com/term/map-marker/462/" target="_blank">thenounproject.com/term/map-marker/462/</a>    
