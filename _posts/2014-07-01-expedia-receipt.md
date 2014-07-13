@@ -25,7 +25,7 @@ By no means is the a complete or final solution, but it's a start. Through count
 
 **Update 09/07/2014:** I realise the use of the yellow for links was a poor decision looking at the final render. The thought process behind it was to add a sense of uniform branding to the publication (Expedia = blue & yellow, Kayak = orange & black, Momondo = purple & black, etc. )
 
-**Update 13/07/2014:** Credit where credit is due!    
+**Update 13/07/2014:** Credit where credit is due! These are the designers behind the icons used.       
 Arrow: <a href="http://thenounproject.com/term/arrow/57623/" target="_blank">thenounproject.com/term/arrow/57623/</a>    
 Airplane: <a href="http://thenounproject.com/term/airplane/2644/" target="_blank">thenounproject.com/term/airplane/2644/</a>    
 Help: <a href="http://thenounproject.com/term/help/38009/" target="_blank">thenounproject.com/term/help/38009/</a>    
