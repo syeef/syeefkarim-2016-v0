@@ -9,7 +9,7 @@ I've been to ten countries, a citizen of two, and jumped out of a plane in one, 
 
 I live in Manchester, UK and recently graduated from Manchester Metropolitan University with a BSc in Computer Science. However, I wasn't always in Manchester. In fact I never lived in the UK until I was 12. I was raised thousands of miles away in Florida, USA.
 
-I enjoy spending my time sketching ideas, pushing pixels in Photoshop, or prototyping in CSS & HTML. I am also part of the team behind <a id="links" href="http://www.studenthack.com/" target="_blank">StudentHack</a> and <a id="links" href="http://www.mlh.io" target="_blank">Major League Hacking UK</a>. At heart a complete adrenalin junkie, constantly looking for an excuse to try a new activity whether it be paint-balling, kayaking, white-water rafting or skydiving! I also have a minor obsession with anything related to transportation (especially airports!)
+I enjoy spending my time sketching ideas, pushing pixels in Photoshop, or prototyping in CSS & HTML. I am also part of the team behind <a id="links" href="http://www.studenthack.com/" target="_blank">StudentHack</a> and <a id="links" href="http://www.mlh.io" target="_blank">Major League Hacking</a>. At heart a complete adrenalin junkie, constantly looking for an excuse to try a new activity whether it be paint-balling, kayaking, white-water rafting or skydiving! I also have a minor obsession with anything related to transportation (especially airports!)
 
 Having recently graduated, I'm currently considering my options for the forthcoming year. Although it is all new to me, with the correct can-do attitude and a genuine ambition to succeed, anything is possible.
 
