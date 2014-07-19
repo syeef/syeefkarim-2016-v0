@@ -31,3 +31,5 @@ Airplane: <a href="http://thenounproject.com/term/airplane/2644/" target="_blank
 Help: <a href="http://thenounproject.com/term/help/38009/" target="_blank">thenounproject.com/term/help/38009/</a>    
 Printer: <a href="http://thenounproject.com/term/printer/31594/" target="_blank">thenounproject.com/term/printer/31594/</a>    
 Map-Marker: <a href="http://thenounproject.com/term/map-marker/462/" target="_blank">thenounproject.com/term/map-marker/462/</a>    
+
+**Update 19/07/2014:** By including the use of <a href="https://developers.google.com/gmail/actions/reference/flight-reservation" target="_blank">Actions</a> users can easily navigate through the itinerary and find the relevant links, such as checkin, and be notified of live flight changes.
