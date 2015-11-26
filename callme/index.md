@@ -2,7 +2,7 @@
 layout: about
 title: Call Me
 bigWord: Call me (maybe).
-tagLine: This is crazy, but here's my number, and email address, and Google Hangouts.
+tagLine: Hey I just met you, and this is crazy, but here's my email address, and Google Hangouts.
 ---
 
 MLH Email address: syeef@mlh.io
