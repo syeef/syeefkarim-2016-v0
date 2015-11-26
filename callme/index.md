@@ -9,4 +9,4 @@ MLH Email address: syeef@mlh.io
 
 Capital One Email address: syeef.karim@capitalone.com
 
-Google Hangouts:
+<a id="links" href="https://hangouts.google.com/hangouts/_/majorleaguehacking.com/hey?hl=en&authuser=0" target="_blank">Let's hangout on Google Hangouts!</a>
