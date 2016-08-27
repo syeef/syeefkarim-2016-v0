@@ -1,8 +1,8 @@
 ---
 layout: about
-title: Welcome!
-bigWord: Welcome!
-tagLine: My name is Syeef Karim. I enjoy designing and creating for the web.
+title: Hey!
+bigWord: Hey!
+tagLine: My name is Syeef Karim and I'm a product designer.
 ---
 
-I hope to share and express my opinions here as well as showcase some of the work I have made. Websites and applications currently feel like they've been designed and created by robots! Have we forgotten who's going to be using it? The people! I'd like to make things a bit more "human" and add a personal touch to the work that I produce.
+Websites and applications currently feel like they've been designed and created by robots! Have we forgotten who's going to be using it? The people! I'd like to make things a bit more "human" and add a personal touch to the work that I produce. Throughout this website you'll find my thoughts & opinons as well as some of the work that I've done.
