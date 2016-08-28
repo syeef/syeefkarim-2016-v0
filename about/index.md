@@ -5,15 +5,9 @@ bigWord: Hey.
 tagLine: My name is Syeef Karim and I'm a product designer.
 ---
 
+I enjoy creating amazing digital product experiences. Currently, I'm a product designer at Capital One where I'm responsible for their UK <a id="links" href="https://itunes.apple.com/gb/app/capital-one-uk/id481679012?mt=8" target="_blank">iOS</a> and <a id="links" href="https://play.google.com/store/apps/details?id=com.ie.capitalone.uk&feature=search_result#?t=W251bGwsMSwxLDEsImNvbS5pZS5jYXBpdGFsb25lLnVrIl0" target="_blank">Android</a> apps. Large proportions of my day are spent sketching concepts, pushing pixels using Sketch, Illustrator or Photoshop, or prototyping using FramerJS, Principle or CSS, HTML & JavaScript.
 
-
-I've been to ten countries, a citizen of two, and jumped out of a plane in one, but I still wouldn't consider myself as well travelled. I can say however that I unequivocally have a passion for travelling. I can also say I have a passion for creating amazing digital product experiences.
-
-Currently, I'm a product designer at Capital One where I'm responsible for their UK <a id="links" href="https://itunes.apple.com/gb/app/capital-one-uk/id481679012?mt=8" target="_blank">iOS</a> and <a id="links" href="https://play.google.com/store/apps/details?id=com.ie.capitalone.uk&feature=search_result#?t=W251bGwsMSwxLDEsImNvbS5pZS5jYXBpdGFsb25lLnVrIl0" target="_blank">Android</a> apps. Large proportions of my day are spent sketching concepts, pushing pixels using Sketch, Illustrator or Photoshop, or prototyping using FramerJS, Principle or CSS, HTML & JavaScript.
-
-I was born in the beautiful sunshine state, Flordia, USA, spent nearly 10 years in Manchester, UK and currently live in London, UK.
-
-I am also part of the team behind <a id="links" href="http://www.studenthack.com/" target="_blank">StudentHack</a>, a student focused hackathon in Manchester and <a id="links" href="http://www.mlh.io" target="_blank">Major League Hacking</a>, the student hackathon league. At heart a complete adrenalin junkie, constantly looking for an excuse to try a new activity whether it be paint-balling, kayaking, white-water rafting or skydiving! I also have a minor obsession with anything related to transportation (especially airports!)
+I am also part of the team behind <a id="links" href="http://www.studenthack.com/" target="_blank">StudentHack</a>, a student focused hackathon in Manchester and <a id="links" href="http://www.mlh.io" target="_blank">Major League Hacking</a>, the student hackathon league. At heart a complete adrenalin junkie, constantly looking for an excuse to try a new activity whether it be paint-balling, kayaking, white-water rafting or skydiving! I also have a minor obsession with anything related to transportation (especially airports!) I was born in the beautiful sunshine state, Florida, USA, spent nearly 10 years in Manchester, UK and currently live in London, UK.
 
 "Every pixel counts!" It's the small details only noticed by a few that makes something ordinary that little bit more special. While trying to achieve a high attention to detail, I try to put a bit of my own personality into my work.
 
