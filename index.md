@@ -1,7 +1,7 @@
 ---
 layout: about
-title: Hey!
-bigWord: Hey!
+title: Welcome!
+bigWord: Welcome!
 tagLine: My name is Syeef Karim and I'm a product designer.
 ---
 

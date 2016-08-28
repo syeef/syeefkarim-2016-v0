@@ -1,7 +1,6 @@
 name: Syeef Karim
-description: Documenting the twists and turns it takes me to reach my career
+description: A website documenting all of the things.
 
 url: http://syeefkarim.com/
 
-markdown: rdiscount
 permalink: /:title
