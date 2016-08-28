@@ -2,7 +2,7 @@
 layout: about
 title: About
 bigWord: Hey.
-tagLine: My name is Syeef Karim.
+tagLine: My name is Syeef Karim and I'm a product designer.
 ---
 
 
