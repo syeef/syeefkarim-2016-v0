@@ -2,6 +2,9 @@
 title: Portfolio
 layout: portfolio
 
+dribbble: /images/posts/dribbble.png
+dribbblebio: <a id="links" href='http://studentdev.io' target="_blank">StudentDev</a> I stay up too late, got nothing in my brain That's what people say mmm, that's what people say mm I go on too many dates, but I can't make 'em stay At least that's what people say mmm, that's what people say mmm</p> <p>This is where <a id="links" href='http://studentdev.io' target="_blank">studentdev.io</a> steps in. It simply locates you and plots all the nearby bus stops, then with a click of a bus stop it display the departure times. The service currently only supports the UK.
+
 image2: /images/posts/studentdev.png
 bio2: <a id="links" href='http://studentdev.io' target="_blank">StudentDev</a> I stay up too late, got nothing in my brain That's what people say mmm, that's what people say mm I go on too many dates, but I can't make 'em stay At least that's what people say mmm, that's what people say mmm</p> <p>This is where <a id="links" href='http://studentdev.io' target="_blank">studentdev.io</a> steps in. It simply locates you and plots all the nearby bus stops, then with a click of a bus stop it display the departure times. The service currently only supports the UK.
 
