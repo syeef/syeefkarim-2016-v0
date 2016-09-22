@@ -146,11 +146,11 @@ ul#post-title-wrapper {
 /* #Link Styles
 ================================================== */
 ul#navigation a:hover {
-	color: #800000;
+	color: #F97A90;
 }
 
 a#links {
-	color: #800000;
+	color: #F97A90;
 }
 a#links:hover {
 	text-decoration: underline;
