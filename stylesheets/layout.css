@@ -61,7 +61,7 @@ h1#footer-title {
     padding: 0px 0px 0px 0px;
 }
 #navigation li a:hover {
-	color: #F97A90;
+	color: #C0392B;
 }
 
 #footer ul {
@@ -79,7 +79,7 @@ h1#footer-title {
 }
 
 #article-line {
-	border-bottom: 1px #800000 solid;
+	border-bottom: 1px #C0392B solid;
 }
 
 #article-list-title-date, #portfolio-list-title {
@@ -146,11 +146,11 @@ ul#post-title-wrapper {
 /* #Link Styles
 ================================================== */
 ul#navigation a:hover {
-	color: #F97A90;
+	color: #C0392B;
 }
 
 a#links {
-	color: #F97A90;
+	color: #C0392B;
 }
 a#links:hover {
 	text-decoration: underline;
@@ -219,7 +219,7 @@ span#about-big-word {
 	font-weight: bold;
 }
 p#about-tag-line {
-	color: #F97A90;
+	color: #C0392B;
 	margin-top: 40px;
 	font-size: 24px;
 }
