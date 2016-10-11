@@ -1,5 +1,5 @@
 ---
-title: Sticky Footer in Skeleton Boilerplate
+title: Capital One Android & iOS App
 subTitle: How to create a sticky footer using the Skeleton Boilerplate
 summary: Just a quick explanation of how I managed to create a sticky footer using the Skeleton HTML5 Boilerplate
 image: /images/posts/freefalling.jpg
