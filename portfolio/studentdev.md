@@ -1,13 +1,54 @@
 ---
-layout: about
-title: StudentDev Portfolio Page
-bigWord: StudentDev Portfolio Page.
-tagLine: Hey I just met you, and this is crazy, but here's my email address, and Appear.in.
+title: Sticky Footer in Skeleton Boilerplate
+subTitle: How to create a sticky footer using the Skeleton Boilerplate
+summary: Just a quick explanation of how I managed to create a sticky footer using the Skeleton HTML5 Boilerplate
+image:
+forceHeight: false
+titleColor: black
+layout: post
 ---
+**The Problem**    
+I've always been a fan of the sticky footer. I like the idea of having all the content at the top of the page, and then some whitespace before I reach the end of the page. It creates more structure (structure is always good.)
 
-Personal Email address: syeefkarim [at] gmail [dot] com
+However, during the rewrite of my website, I wanted to make it responsive and maintain some concepts from the older design e.g. the sticky footer. This was a little trickier to accomplish than I had anticipated.
 
-Capital One Email address: syeef [dot] karim [at] capitalone [dot] com
+**The Solution**    
+The solution is easier than you think, but if you were like me and got a bit caught up in Skeleton, you might have over thought it!
 
+**HTML**  
+Wrap your container div with a div called footer.
 
-<a id="links" href="https://appear.in/syeef" target="_blank">Let's have a video call!</a>
+{% highlight html %}
+    <div class='footer'>
+	<div class='container'>
+		<div class='half-column'>
+		</div>
+		<div class='half-column'>
+		</div>
+	</div>
+    </div>
+{% endhighlight %}
+</br>
+**CSS**  
+Apply the CSS below to the appropriate classes.
+
+{% highlight html %}
+html {
+	position: relative;
+	min-height: 100%;
+}    
+
+body {
+	margin: 0 0 170px 0; /*bottom = footer height*/
+}    
+
+.footer {
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	height: 170px;
+	width: 100%;
+}
+{% endhighlight %}
+</br>
+Hope this manages to help you out! Good luck!
