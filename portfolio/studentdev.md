@@ -2,7 +2,7 @@
 title: Sticky Footer in Skeleton Boilerplate
 subTitle: How to create a sticky footer using the Skeleton Boilerplate
 summary: Just a quick explanation of how I managed to create a sticky footer using the Skeleton HTML5 Boilerplate
-image:
+image: /images/posts/freefalling.jpg
 forceHeight: false
 titleColor: black
 layout: post
