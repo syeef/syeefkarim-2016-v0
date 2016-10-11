@@ -5,7 +5,7 @@ bigWord: Call me (maybe).
 tagLine: Hey I just met you, and this is crazy, but here's my email address, and Appear.in.
 ---
 
-MLH Email address: syeef [at] mlh [dot] io
+Personal Email address: syeefkarim [at] gmail [dot] com
 
 Capital One Email address: syeef [dot] karim [at] capitalone [dot] com
 
