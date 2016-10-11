@@ -1,7 +1,7 @@
 ---
 layout: about
-title: Call Me
-bigWord: Call me (maybe).
+title: StudentDev Portfolio Page
+bigWord: StudentDev Portfolio Page.
 tagLine: Hey I just met you, and this is crazy, but here's my email address, and Appear.in.
 ---
 
