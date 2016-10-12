@@ -1,5 +1,5 @@
 ---
-title: Intorduction to Material Design
+title: Introduction to Material Design
 subTitle: A short presentation discussing the difference between Material and Flat Design
 summary: A presentation I gave at Mobile Notts discussing the differences between Material Design and Flat Design
 image:
