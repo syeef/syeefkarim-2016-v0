@@ -2,9 +2,9 @@
 title: Capital One Android & iOS App
 subTitle: A selection of some of the work I did with the Capital One UK Mobile App. The app is used by nearly 1 million customers to help manage their accounts.
 summary: To comply with my non-disclosure agreement, I have omitted and obfuscated confidential and proprietary information. The information in this case study is my own and does not necessarily reflect the views of Capital One.
-image: /images/posts/capitalone.png
+image: /images/posts/CapitalOneBlueprint.png
 forceHeight: false
-titleColor: black
+titleColor: white
 layout: post
 ---
 **The Goal**    
