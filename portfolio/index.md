@@ -6,6 +6,7 @@ dribbbleImage: /images/posts/dribbble.png
 dribbbleBio: <p>A collection of some of the illustrations, wireframes and concepts that I've created and shared with the <a id="links" href='http://dribbble.com/syeef' target="_blank">Dribbble</a> commmunity. I'm always open to getting feedback and learning what I can improve, but kudos is also always greatly appreciated.</p>
 
 capitaloneImage: /images/posts/capitalone.png
+capitaloneSkills: Product concept, product roadmap, user process diagram, accessibility, interaction design, visual design, icon design
 capitaloneBio: <p>During my time at Capital One I was heavily involved with the conception, ideation, user understanding and execution of their mobile app, for both the Android and iOS platform. The <a id="links" href='http://capitalone.co.uk/app' target="_blank">app</a> is used by customers to service their credit cards by viewing transactions, making payments and address issues with their account.</p><p><a id="links" href='/portfolio/capitalone.html' target="_blank">Read more...</a></p>
 
 studentdevImage: /images/posts/studentdev.png
