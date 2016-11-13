@@ -22,7 +22,7 @@ Create a mobile app to allow customers to easily service their accounts, receive
 **My Design Process**  
 • Work cloesly with partners within Product and Engineering to ensure buy in and alignment from day 1
 
-**1. Execute an information re-architecture of the existing app**  
+*1. Execute an information re-architecture of the existing app*  
 Capital One was undergoing a major transformation with regards to how projects were worked on and delivered from waterfall to agile. They had also never developed a mobile app in house before. 
 
 ***My Role***  
@@ -32,7 +32,7 @@ I led work refining and iterating features from conception through to delivery w
 
 ***The Outcomes***  
 
-**2. Respect platform norms and conventions**  
+*2. Respect platform norms and conventions*  
 
 ***My Role***  
 
