@@ -31,7 +31,7 @@ I was an interaction designer on the Capital One mobile app across iOS and Andro
 I led work refining and iterating features from conception through to delivery working closely with product owners and engineers.
 
 ***The Outcomes***  
-<img src="/images/posts/CapitalOneBlueprint.png" width="500px">
+<img src="/images/posts/CapitalOneBlueprint.png" width="700px">
 
 **2. Respect platform norms and conventions**  
 
