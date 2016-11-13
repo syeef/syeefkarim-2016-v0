@@ -38,7 +38,7 @@ I led work refining and iterating features from conception through to delivery w
 ***My Role***  
 
 ***The Outcomes***  
-<pre> <script async class="speakerdeck-embed" data-id="bf378b409cad424494ef5a75d7fbaf72" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script> </pre>
+<script async class="speakerdeck-embed" data-id="bf378b409cad424494ef5a75d7fbaf72" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
 **3. Improve the accessibility of the app**  
 
