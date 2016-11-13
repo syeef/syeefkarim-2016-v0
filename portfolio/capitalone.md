@@ -16,8 +16,9 @@ This case study is broadly broken down into smaller challenges and what my role 
 Create a mobile app to allow customers to easily service their accounts, receive relevant information regarding account health and increase overall engagement with Capital One.
 
 **Results Achieved**  
-• Shipped both an iOS and Android app within 6 months, earlier than budgetted
-• Helped foster a human centred design culture, balancing both customer and business goals
+• Shipped both an iOS and Android app within 6 months, earlier than budgetted  
+• Helped foster a human centred design culture, balancing both customer and business goals  
+• THIS WILL BE A THIRD POINT  
 
 **My Design Process**  
 • Work cloesly with partners within Product and Engineering to ensure buy in and alignment from day 1
