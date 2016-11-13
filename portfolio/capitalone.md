@@ -2,9 +2,9 @@
 title: Capital One Android & iOS App
 subTitle: A selection of some of the work I did with the Capital One UK Mobile App. The app is used by nearly 1 million customers to help manage their accounts.
 summary:
-image: /images/posts/capitalone.png
+image: /images/posts/capitaloneblueprint.png
 forceHeight: false
-titleColor: black
+titleColor: white
 layout: post
 ---
 **Note**  
