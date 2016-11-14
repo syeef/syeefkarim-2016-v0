@@ -32,7 +32,7 @@ I was an interaction designer on the Capital One mobile app across iOS and Andro
 I led work refining and iterating features from conception through to delivery working closely with product owners and engineers.
 
 ***The Outcomes***  
-<img src="/images/posts/CapitalOneBlueprint.png" width="650px">
+<img src="/images/posts/AppSitemap.png" width="650px">
 
 **2. Create an experience which respects platform norms and conventions**  
 
@@ -41,8 +41,16 @@ I led work refining and iterating features from conception through to delivery w
 ***The Outcomes***  
 <script async class="speakerdeck-embed" data-id="bf378b409cad424494ef5a75d7fbaf72" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
-**3. Improve the accessibility of the app**  
+**3. Apply an appropriate brand style for the app**  
 
 ***My Role***  
 
 ***The Outcomes***  
+<img src="/images/posts/FontWar.png" width="650px">
+
+**4. Improve the accessibility of the app**  
+
+***My Role***  
+
+***The Outcomes***  
+<img src="/images/posts/Accessibility.png" width="650px">
