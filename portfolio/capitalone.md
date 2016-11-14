@@ -20,7 +20,7 @@ Create a mobile app to allow customers to easily service their accounts, receive
 • Helped foster a human centred design culture, balancing both customer and business goals  
 • THIS WILL BE A THIRD POINT  
 
->It is so easy to use and keep an eye in my spending and paying off what I need to pay .I would recommend this app and capital one every time <cite>Android User</cite>
+>It is so easy to use and keep an eye in my spending and paying off what I need to pay. I would recommend this app and capital one every time <cite>Android User</cite>
 
 >So much easier I can now control both accounts.. Love it <cite>iOS User</cite>
 
@@ -55,8 +55,15 @@ I led work refining and iterating features from conception through to delivery w
 <img src="/images/posts/FontWar.png" width="650px">
 
 **4. Improve the accessibility of the app**  
+The app was put forward for accessibility review as part of the usual Capital One quality process and had come back non-compliant, particularly with regards to colour contrast. Product counterparts were also reluctant to make any large noticeable changes to the UI with fears of causing customer confusion and uncertainty.  
 
 ***My Role***  
+• Deconstructed the colours and their usage criteria within the app, looking for similar hues from the enterprise colour scheme  
+• Once appropriate replacement shades were found, I compared the foreground and background colours to make sure they passed at least a WCAG 2 AA rating  
+• Implemented the new coloursclosely with parners in Engineering and Quality Assurance to quickly address non-compliant colour accessibility issue, whilst minimising UI change  
 
 ***The Outcomes***  
+• The app is now compliant with WGAC 2 AA rating  
+• An improved process between Design, Engineering and Quality Assurance which accomodates for colour contrast and voiceover assistance  
+• A rooted attitude within the product development team that a user with accessibility tools enabaled shouldn't be treated as a second class citizen  
 <img src="/images/posts/Accessibility.png" width="650px">
