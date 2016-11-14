@@ -43,6 +43,9 @@ I led work refining and iterating features from conception through to delivery w
 **2. Create an experience which respects platform norms and conventions**  
 
 ***My Role***  
+• Conducted user interviews to hear first hand what customers thoughts and expectations included  
+• Studied and became a subject matter expert of Material Design by Google and how through its adoption we'd be able to create a consistant experience, even across platforms  
+• Gathered and analysed customer device usage statistics to get buy in and reassure Product counterparts with regards to my design decisions  
 
 ***The Outcomes***  
 <script async class="speakerdeck-embed" data-id="bf378b409cad424494ef5a75d7fbaf72" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
