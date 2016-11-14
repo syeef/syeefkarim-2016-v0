@@ -20,11 +20,17 @@ Create a mobile app to allow customers to easily service their accounts, receive
 • Helped foster a human centred design culture, balancing both customer and business goals  
 • THIS WILL BE A THIRD POINT  
 
+>It is so easy to use and keep an eye in my spending and paying off what I need to pay .I would recommend this app and capital one every time <cite>Android User</cite>
+
+>So much easier I can now control both accounts.. Love it <cite>iOS User</cite>
+
 **My Design Process**  
 • Work cloesly with partners within Product and Engineering to ensure buy in and alignment from day 1
 
 **1. Execute an information re-architecture of the existing app**  
-Capital One was undergoing a major transformation with regards to how projects were worked on and delivered from waterfall to agile. They had also never developed a mobile app in house before. 
+The existing app allowed cutomers to view their previous transactions, account balance and next payment date, but fundamentally failed to help customers make a payment and navigate the app in a meaningful way.  
+
+Out goal was to be able to allow customers to make a payment via the app as well as update the Information Architecture to help customers easily see and browse to the content that they need.
 
 ***My Role***  
 I was an interaction designer on the Capital One mobile app across iOS and Android from the start of the project in August 2014.
