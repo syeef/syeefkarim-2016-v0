@@ -25,11 +25,11 @@ Create a mobile app to allow customers to easily service their accounts, receive
 >So much easier I can now control both accounts.. Love it <cite>iOS User</cite>
 
 <br>
-<img src="/images/posts/capitalone/iOSAAG.png" height="300px">
-<img src="/images/posts/capitalone/iOSPayment.png" height="300px">
+<img src="/images/posts/capitalone/iOSAAG.png" height="350px">
+<img src="/images/posts/capitalone/iOSPayment.png" height="350px">
 <br>
-<img src="/images/posts/capitalone/AnroidSuccessfulPayment.png" height="300px">
-<img src="/images/posts/capitalone/AndroidTransactionDetails.png" height="300px">
+<img src="/images/posts/capitalone/AnroidSuccessfulPayment.png" height="350px">
+<img src="/images/posts/capitalone/AndroidTransactionDetails.png" height="350px">
 
 **My Design Process**  
 • Work cloesly with partners within Product and Engineering to ensure buy in and alignment from day 1
