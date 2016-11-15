@@ -27,6 +27,8 @@ Create a mobile app to allow customers to easily service their accounts, receive
 **My Design Process**  
 • Work cloesly with partners within Product and Engineering to ensure buy in and alignment from day 1
 
+<img src="/images/posts/designprocess.png" width="650px">
+
 **1. Execute an information re-architecture of the existing app**  
 The existing app allowed cutomers to view their previous transactions, account balance and next payment date, but fundamentally failed to help customers make a payment and navigate the app in a meaningful way.  
 
