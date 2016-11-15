@@ -28,7 +28,7 @@ Create a mobile app to allow customers to easily service their accounts, receive
 • Work cloesly with partners within Product and Engineering to ensure buy in and alignment from day 1
 
 <a id="links" href='/images/posts/capitalone/designprocess.png' target="_blank"><img src="/images/posts/capitalone/designprocess.png" width="650px"></a>
-Please click to enlarge to view the entire process.
+Please click on the image to enlarge and view my design process.
 <br>
 <br>
 <img src="/images/posts/capitalone/wireframe.jpg" width="650px">
