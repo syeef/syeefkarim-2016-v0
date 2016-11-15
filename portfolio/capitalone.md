@@ -30,6 +30,7 @@ Create a mobile app to allow customers to easily service their accounts, receive
 <a id="links" href='/images/posts/capitalone/designprocess.png' target="_blank"><img src="/images/posts/capitalone/designprocess.png" width="650px"></a>
 Please click to enlarge to view the entire process.
 <br>
+<br>
 <img src="/images/posts/capitalone/androiddesign.jpg" width="650px">
 <br>
 <img src="/images/posts/capitalone/wireframe.jpg" width="650px">
