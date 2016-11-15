@@ -31,9 +31,9 @@ Create a mobile app to allow customers to easily service their accounts, receive
 Please click to enlarge to view the entire process.
 <br>
 <br>
-<img src="/images/posts/capitalone/androiddesign.jpg" width="650px">
-<br>
 <img src="/images/posts/capitalone/wireframe.jpg" width="650px">
+<br>
+<img src="/images/posts/capitalone/androiddesign.jpg" width="650px">
 
 **1. Execute an information re-architecture of the existing app**  
 The existing app allowed cutomers to view their previous transactions, account balance and next payment date, but fundamentally failed to help customers make a payment and navigate the app in a meaningful way.  
