@@ -33,6 +33,8 @@ Please click to enlarge to view the entire process.
 <br>
 <img src="/images/posts/capitalone/wireframe.jpg" width="650px">
 <br>
+<img src="/images/posts/capitalone/CapitalOneBlueprintBlue.png" width="650px">
+<br>
 <img src="/images/posts/capitalone/androiddesign.jpg" width="650px">
 
 **1. Execute an information re-architecture of the existing app**  
