@@ -24,6 +24,8 @@ Create a mobile app to allow customers to easily service their accounts, receive
 
 >So much easier I can now control both accounts.. Love it <cite>iOS User</cite>
 
+<img src="/images/posts/capitalone/androiddesign.jpg" width="650px">
+
 **My Design Process**  
 • Work cloesly with partners within Product and Engineering to ensure buy in and alignment from day 1
 
