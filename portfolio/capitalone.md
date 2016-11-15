@@ -24,6 +24,8 @@ Create a mobile app to allow customers to easily service their accounts, receive
 
 >So much easier I can now control both accounts.. Love it <cite>iOS User</cite>
 
+>Everything I need at quick glance and easy to pay <cite>Android User</cite>
+
 <br>
 <img src="/images/posts/capitalone/iOSAAG.png" height="500px">
 <img src="/images/posts/capitalone/iOSPayment.png" height="500px">
