@@ -2,7 +2,7 @@
 title: Capital One Android & iOS App
 subTitle: A selection of some of the work I did with the Capital One UK Mobile App. The app is used by nearly 1 million customers to help manage their accounts.
 summary:
-image: /images/posts/CapitalOneBlueprint.png
+image: /images/posts/capitalone/CapitalOneBlueprint.png
 forceHeight: false
 titleColor: white
 layout: post
@@ -27,7 +27,7 @@ Create a mobile app to allow customers to easily service their accounts, receive
 **My Design Process**  
 • Work cloesly with partners within Product and Engineering to ensure buy in and alignment from day 1
 
-<a id="links" href='/images/posts/designprocess.png' target="_blank"><img src="/images/posts/designprocess.png" width="650px"></a>
+<a id="links" href='/images/posts/capitalone/designprocess.png' target="_blank"><img src="/images/posts/capitalone/designprocess.png" width="650px"></a>
 
 **1. Execute an information re-architecture of the existing app**  
 The existing app allowed cutomers to view their previous transactions, account balance and next payment date, but fundamentally failed to help customers make a payment and navigate the app in a meaningful way.  
@@ -40,7 +40,7 @@ I was an interaction designer on the Capital One mobile app across iOS and Andro
 I led work refining and iterating features from conception through to delivery working closely with product owners and engineers.
 
 ***The Outcomes***  
-<img src="/images/posts/AppSitemap.png" width="650px">
+<img src="/images/posts/capitalone/AppSitemap.png" width="650px">
 
 **2. Create an experience which respects platform norms and conventions**  
 
@@ -57,7 +57,7 @@ I led work refining and iterating features from conception through to delivery w
 ***My Role***  
 
 ***The Outcomes***  
-<img src="/images/posts/FontWar.png" width="650px">
+<img src="/images/posts/capitalone/FontWar.png" width="650px">
 
 **4. Improve the accessibility of the app**  
 The app was put forward for accessibility review as part of the usual Capital One quality process and had come back non-compliant, particularly with regards to colour contrast. Product counterparts were also reluctant to make any large noticeable changes to the UI with fears of causing customer confusion and uncertainty.  
@@ -71,4 +71,4 @@ The app was put forward for accessibility review as part of the usual Capital On
 • The app is now compliant with WGAC 2 AA rating  
 • An improved process between Design, Engineering and Quality Assurance which accomodates for colour contrast and voiceover assistance  
 • A rooted attitude within the product development team that a user with accessibility tools enabaled shouldn't be treated as a second class citizen  
-<img src="/images/posts/Accessibility.png" width="650px">
+<img src="/images/posts/capitalone/Accessibility.png" width="650px">
