@@ -87,16 +87,18 @@ Essentially, Product was happy to progress with a subpar solution for Android, h
 <script async class="speakerdeck-embed" data-id="50164c6e49d6446d8ea31bff6ec961d1" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
 **3. Apply an appropriate brand style for the app**  
-The existing Capital One brand guidelines and assets were created and optimised to work for print and the web, but not so much for mobile applications.  
+The existing Capital One brand guidelines and assets were created and optimised to work for print and the web, but not for mobile applications.  
 
-The challenge was to modernise 
+The challenge was to modernise the existing standards, suggest improvements, and execute on these recommendations.  
 
 ***My Role***  
-• Worked with the existing brand colour pallet to find appropriate uses of colours, 
-• Collected and studied multiple font options, considering how this could also work with icons  
-•
+• Worked with the existing brand colour pallet to find appropriate uses of colours throughout the apps  
+• Collected and studied multiple font options, considering how this could also work with feature icons, line icons, and imagery  
+• Collaborate with the existing Brand team to ensure buy in and build a long term relationship  
 
 ***The Outcomes***  
+<img src="/images/posts/capitalone/stylesheet.png" width="650px">
+<br>
 <img src="/images/posts/capitalone/FontWar.png" width="650px">
 
 **4. Improve the accessibility of the app**  
@@ -123,10 +125,10 @@ Capital One was relatively an unknown, particularly amongst the technology secto
 • Influenced key stakeholders in Engineering to use a protion of their budget to sponsor and attend student hackathons, suggesting this would help grow the graduate pipeline years down the line (_I was right._)
 
 ***The Outcomes***  
-• This is a presentation I was invited to share at <a id="links" href='https://twitter.com/tfogo' target="_blank">Anrdoid Summit</a> in McLean, VA, USA discussing the journey we took to help raise Android as a first class citizen within Capital One.
-<script async class="speakerdeck-embed" data-id="bf378b409cad424494ef5a75d7fbaf72" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>  
 • Attended multiple student hackathons, part of the Major League Hacking circuit representing Capital One  
 • Influenced the strategy Capital One took with reguards to attending events.  
+• This was presentation I was invited to share at <a id="links" href='https://twitter.com/tfogo' target="_blank">Anrdoid Summit</a> in McLean, VA, USA discussing the journey we took to help raise Android as a first class citizen within Capital One.
+<script async class="speakerdeck-embed" data-id="bf378b409cad424494ef5a75d7fbaf72" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>  
 
 >‘Ridiculously connected’ is a phrase that comes to mind when I think about Syeef. He has expertly consulted on event marketing and developer relations for the past year. Side of desk, he passionately led and established Capital One as a leader amongst the UK hackathon circuit, creating slick talk and demo slides, staffing, and bolstering our Brand by advising on our the holistic presence at said events. I was particularly impressed with Syeef’s ability to help speakers communicate complex ideas with very simple and lovable designs. I am proud to have him on my team and as a representative of our Brand. I hope to work with Sy for years to come! <cite>Amanda Aschenbrenner - Talent Brand Marketing, Capital One</cite>
 
