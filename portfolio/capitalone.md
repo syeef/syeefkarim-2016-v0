@@ -12,6 +12,9 @@ To comply with my non-disclosure agreement, I have omitted and obfuscated confid
 
 This case study is broadly broken down into smaller challenges and what my role and input was to overcome and progress forward.
 
+**Skills**
+Product concept, product roadmap, user process diagram, accessibility, usability, interaction design, visual design, icon design
+
 **Product Goal**  
 Create a mobile app to allow customers to easily service their accounts, receive relevant information regarding account health and increase overall engagement with Capital One.
 
@@ -37,7 +40,7 @@ Create a mobile app to allow customers to easily service their accounts, receive
 • Understand the inital purpose of the feature  
 • Review existing solutions from both direct and non-direct competitors  
 • Create a vision piece to act as a stake in the ground, and gold standard solution  
-• Distribute a user flow diagram, to be shared with wider business stakeholders and guage any concerns or recommendations  
+• Distribute a user process diagram, to be shared with wider business stakeholders and guage any concerns or recommendations  
 • Regularly review concepts with users to gain insights and make any required adjustments  
 • Work cloesly with partners within Product and Engineering to ensure buy in and alignment from day 1  
 
