@@ -12,7 +12,7 @@ To comply with my non-disclosure agreement, I have omitted and obfuscated confid
 
 This case study is broadly broken down into smaller challenges and what my role and input was to overcome and progress forward.
 
-**Skills**
+**Skills**  
 Product concept, product roadmap, user process diagram, accessibility, usability, interaction design, visual design, icon design
 
 **Product Goal**  
