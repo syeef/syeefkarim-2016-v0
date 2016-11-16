@@ -82,6 +82,7 @@ Essentially, Product was happy to progress with a subpar solution for Android, h
 • Gathered and analysed customer device usage statistics to get buy in and reassure Product counterparts with regards to my design decisions  
 
 ***The Outcomes***  
+• This is a presentation I was invited to share at <a id="links" href='https://twitter.com/tfogo' target="_blank">Anrdoid Summit</a> in McLean, VA, USA discussing the journey we took to help raise Android as a first class citizen within Capital One.
 <script async class="speakerdeck-embed" data-id="bf378b409cad424494ef5a75d7fbaf72" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
 **3. Apply an appropriate brand style for the app**  
