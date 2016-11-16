@@ -86,8 +86,13 @@ Essentially, Product was happy to progress with a subpar solution for Android, h
 <script async class="speakerdeck-embed" data-id="bf378b409cad424494ef5a75d7fbaf72" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
 **3. Apply an appropriate brand style for the app**  
+The existing Capital One brand guidelines and assets were created and optimised to work for print and the web, but not so much for mobile applications.  
+
+The challenge was to modernise 
 
 ***My Role***  
+• Worked with the existing brand colour pallet to find appropriate uses of colours, 
+
 
 ***The Outcomes***  
 <img src="/images/posts/capitalone/FontWar.png" width="650px">
