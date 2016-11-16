@@ -57,17 +57,24 @@ Please click on the image to enlarge and view my design process.
 **1. Execute an information re-architecture of the existing app**  
 The existing app allowed cutomers to view their previous transactions, account balance and next payment date, but fundamentally failed to help customers make a payment and navigate the app in a meaningful way.  
 
-Out goal was to be able to allow customers to make a payment via the app as well as update the Information Architecture to help customers easily see and browse to the content that they need.
+Our goal was to allow customers to make a payment via the app as well as update the Information Architecture to help customers easily see and browse to the content that they need.
 
 ***My Role***  
-I was an interaction designer on the Capital One mobile app across iOS and Android from the start of the project in August 2014.
-
-I led work refining and iterating features from conception through to delivery working closely with product owners and engineers.
+• Implemented a process to be able to conduct user interviews in-house  
+• Gathered user needs and use cases first hand  
+• Analysed existing IA's from direct competitors  
+• Created multiple options of potential IA's, reviewd with internal stakeholders and customers, further iterated and refined with engineers and product owner  
 
 ***The Outcomes***  
+• A diagram of the existing IA of the application, suitable to be expanded to meet future features and requirements
 <img src="/images/posts/capitalone/AppSitemap.png" width="650px">
 
 **2. Create an experience which respects platform norms and conventions**  
+Roughly 1/3 of customers had an Android device, however initial appetiate from the business to create a native Android application was low. It was thought this would slow down development, and add additional unnecessary risk and complexity.  
+
+My partners in Engineering were becoming increasingly demotived by the notion of a hybrid app, with heavy usage of non-native elements for the Android platform.  
+
+Essentially, Product was happy to progress with a subpar solution for Android, however Engineering wasn't bought in to the idea.  
 
 ***My Role***  
 • Conducted user interviews to hear first hand what customers thoughts and expectations included  
