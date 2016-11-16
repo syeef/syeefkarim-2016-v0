@@ -17,7 +17,7 @@ Create a mobile app to allow customers to easily service their accounts, receive
 
 **Results Achieved**  
 • Shipped both an iOS and Android app within 6 months, earlier than anticipated  
-• Evangelised and implemented a a human centred design culture  
+• Evangelised and implemented a a human centred design cuslture  
 • Influenced the product roadmap to cater for user needs rather than business oriented requirements   
 
 >It is so easy to use and keep an eye in my spending and paying off what I need to pay. I would recommend this app and capital one every time <cite>Android User</cite>
@@ -34,6 +34,11 @@ Create a mobile app to allow customers to easily service their accounts, receive
 <img src="/images/posts/capitalone/AndroidTransactionDetails.png" height="500px">
 
 **My Design Process**  
+• Understand the inital purpose of the feature
+• Review existing solutions from both direct and non-direct competitors
+• Create a vision piece to act as a stake in the ground, and gold standard solution
+• Distribute a user flow diagram, to be shared with wider business stakeholders and guage any concerns or recommendations
+• Regularly review concepts with users to gain insights and make any required adjustments
 • Work cloesly with partners within Product and Engineering to ensure buy in and alignment from day 1
 
 <a id="links" href='/images/posts/capitalone/designprocess.png' target="_blank"><img src="/images/posts/capitalone/designprocess.png" width="650px"></a>
