@@ -83,7 +83,7 @@ Essentially, Product was happy to progress with a subpar solution for Android, h
 
 ***The Outcomes***  
 
-• This was a presentation I gave at Mobile Notts, a meetup of mobile developers and designers in Nottingham. It was shortly after 
+• This was a presentation I gave at Mobile Notts, a meetup of mobile developers and designers in Nottingham. It was shortly after Google had announced Material Design and the community wasn't sure how to adopt and integrate it into their applications.
 • This is a presentation I was invited to share at <a id="links" href='https://twitter.com/tfogo' target="_blank">Anrdoid Summit</a> in McLean, VA, USA discussing the journey we took to help raise Android as a first class citizen within Capital One.
 <script async class="speakerdeck-embed" data-id="50164c6e49d6446d8ea31bff6ec961d1" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
