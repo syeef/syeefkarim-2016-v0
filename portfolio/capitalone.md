@@ -60,13 +60,13 @@ The existing app allowed cutomers to view their previous transactions, account b
 Our goal was to allow customers to make a payment via the app as well as update the Information architecture (IA) to help customers easily see and browse to the content that they need.
 
 ***My Role***  
-• Implemented a process to be able to conduct user interviews in-house  
-• Gathered user needs and use cases first hand  
-• Analysed existing IA's from direct competitors  
-• Created multiple options of potential IA's, reviewd with internal stakeholders and customers, further iterated and refined with engineers and product owner  
+• Implemented a process to be able to conduct user interviews in-house.  
+• Gathered user needs and use cases first hand.  
+• Analysed existing IA's from direct competitors.  
+• Created multiple options of potential IA's, reviewd with internal stakeholders and customers, further iterated and refined with engineers and product owner.  
 
 ***The Outcomes***  
-• A diagram of the existing IA of the application, suitable to be expanded to meet future features and requirements
+• A diagram of the existing IA of the application, suitable to be expanded to meet future features and requirements.
 <img src="/images/posts/capitalone/AppSitemap.png" width="650px">
 
 **2. Create an experience which respects platform norms and conventions**  
@@ -77,13 +77,13 @@ My partners in Engineering were becoming increasingly demotivated by the notion 
 Essentially, Product was happy to progress with a subpar solution for Android, however Engineering wasn't bought in to the idea.  
 
 ***My Role***  
-• Conducted user interviews to hear first-hand what customers thoughts and expectations included  
-• Studied and became a subject matter expert of Material Design by Google and how through its adoption we'd be able to create a consistent experience, even across platforms  
-• Gathered and analysed customer device usage statistics to get buy in and reassure Product counterparts with regards to my design decisions  
+• Conducted user interviews to hear first-hand what customers thoughts and expectations included.  
+• Studied and became a subject matter expert of Material Design by Google and how through its adoption we'd be able to create a consistent experience, even across platforms.  
+• Gathered and analysed customer device usage statistics to get buy in and reassure Product counterparts with regards to my design decisions.  
 
 ***The Outcomes***  
-• Became the first financial services app on the Google Play store to launch with Material Design principles  
-• Gave a presentation at Mobile Notts, a meetup of mobile developers and designers in Nottingham. It was shortly after Google had announced Material Design and the community wasn't sure how to adopt and integrate it into their applications
+• Became the first financial services app on the Google Play store to launch with Material Design principles.  
+• Gave a presentation at Mobile Notts, a meetup of mobile developers and designers in Nottingham. It was shortly after Google had announced Material Design and the community wasn't sure how to adopt and integrate it into their applications.
 <script async class="speakerdeck-embed" data-id="50164c6e49d6446d8ea31bff6ec961d1" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
 **3. Apply an appropriate brand style for the app**  
@@ -92,9 +92,9 @@ The existing Capital One brand guidelines and assets were created and optimised 
 The challenge was to modernise the existing standards, suggest improvements, and execute on these recommendations.  
 
 ***My Role***  
-• Worked with the existing brand colour palette to find appropriate uses of colours throughout the apps  
-• Collected and studied multiple font options, considering how this could also work with feature icons, line icons, and imagery  
-• Collaborate with the existing Brand team to ensure buy in and build a long term relationship  
+• Worked with the existing brand colour palette to find appropriate uses of colours throughout the apps.  
+• Collected and studied multiple font options, considering how this could also work with feature icons, line icons, and imagery.  
+• Collaborate with the existing Brand team to ensure buy in and build a long term relationship.  
 
 ***The Outcomes***  
 <img src="/images/posts/capitalone/stylesheet.png" width="650px">
@@ -105,30 +105,29 @@ The challenge was to modernise the existing standards, suggest improvements, and
 The app was put forward for accessibility review as part of the usual Capital One quality process and had come back non-compliant, particularly with regards to colour contrast. Product counterparts were also reluctant to make any large noticeable changes to the UI with fears of causing customer confusion and uncertainty.  
 
 ***My Role***  
-• Deconstructed the colours and their usage criteria within the app, looking for similar hues from the enterprise colour scheme  
-• Once appropriate replacement shades were found, I compared the foreground and background colours to make sure they passed at least a WCAG 2 AA rating  
-• Implemented the new colours closely with partners in Engineering and Quality Assurance to quickly address the non-compliant colour accessibility issue, whilst minimising UI change  
+• Deconstructed the colours and their usage criteria within the app, looking for similar hues from the enterprise colour scheme.  
+• Once appropriate replacement shades were found, I compared the foreground and background colours to make sure they passed at least a WCAG 2 AA rating.  
+• Implemented the new colours closely with partners in Engineering and Quality Assurance to quickly address the non-compliant colour accessibility issue, whilst minimising UI change.  
 
 ***The Outcomes***  
-• The app is now compliant with WGAC 2 AA rating  
-• An improved process between Design, Engineering and Quality Assurance which accomodates for colour contrast and voiceover assistance  
-• A rooted attitude within the product development team that a user with accessibility tools enabaled shouldn't be treated as a second class citizen  
+• The app is now compliant with WGAC 2 AA rating.  
+• An improved process between Design, Engineering and Quality Assurance which accomodates for colour contrast and voiceover assistance.  
+• A rooted attitude within the product development team that a user with accessibility tools enabaled shouldn't be treated as a second class citizen.  
 <img src="/images/posts/capitalone/Accessibility.png" width="650px">
 
 **5. Bonus work - Help improve the reputation of Capital One**  
 In early 2014, Capital One found itself in a place of change. Waterfall was quickly becoming dated, and Agile adoption was growing rapidly. The mobile app was said to be the flagship product showcasing the new, quicker, leaner, _more agile_ way of working.  
 
-Capital One was relatively unknown, particularly amongst the technology sector. The challenge was to be able to grow the reputation
+Capital One was relatively unknown, particularly amongst the technology sector. The challenge was to be able to grow the reputation.
 
 ***My Role***  
-• Worked the HR and Engineering to form a group of advocates, and create a process allowing Engineers to easily speak at events and conferences  
+• Worked the HR and Engineering to form a group of advocates, and create a process allowing Engineers to easily speak at events and conferences.  
 • Influenced key stakeholders in Engineering to use a protion of their budget to sponsor and attend student hackathons, suggesting this would help grow the graduate pipeline years down the line (_I was right._)
 
 ***The Outcomes***  
-• Attended multiple student hackathons, part of the Major League Hacking circuit representing Capital One  
+• Attended multiple student hackathons, part of the Major League Hacking circuit representing Capital One.  
 • Influenced the strategy Capital One took with reguards to attending events.  
 • This was presentation I was invited to share at <a id="links" href='https://twitter.com/tfogo' target="_blank">Anrdoid Summit</a> in McLean, VA, USA discussing the journey we took to help raise Android as a first class citizen within Capital One.
 <script async class="speakerdeck-embed" data-id="bf378b409cad424494ef5a75d7fbaf72" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>  
 
 >‘Ridiculously connected’ is a phrase that comes to mind when I think about Syeef. He has expertly consulted on event marketing and developer relations for the past year. Side of desk, he passionately led and established Capital One as a leader amongst the UK hackathon circuit, creating slick talk and demo slides, staffing, and bolstering our Brand by advising on our the holistic presence at said events. I was particularly impressed with Syeef’s ability to help speakers communicate complex ideas with very simple and lovable designs. I am proud to have him on my team and as a representative of our Brand. I hope to work with Sy for years to come! <cite>Amanda Aschenbrenner - Talent Brand Marketing, Capital One</cite>
-
