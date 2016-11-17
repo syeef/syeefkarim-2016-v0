@@ -30,11 +30,11 @@ Create a mobile app to allow customers to easily service their accounts, receive
 >Everything I need at quick glance and easy to pay <cite>Android User</cite>
 
 <br>
-<img src="/images/posts/capitalone/iOSAAG.png" height="600px">
-<img src="/images/posts/capitalone/iOSPayment.png" height="600px">
+<img src="/images/posts/capitalone/iOSAAG.png" height="575px">
+<img src="/images/posts/capitalone/iOSPayment.png" height="575px">
 <br>
-<img src="/images/posts/capitalone/AnroidSuccessfulPayment.png" height="600px">
-<img src="/images/posts/capitalone/AndroidTransactionDetails.png" height="600px">
+<img src="/images/posts/capitalone/AnroidSuccessfulPayment.png" height="575px">
+<img src="/images/posts/capitalone/AndroidTransactionDetails.png" height="575px">
 
 **My Design Process**  
 • Understand the inital purpose of the feature  
