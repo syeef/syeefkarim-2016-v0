@@ -1,54 +1,16 @@
 ---
-title: Capital One Android & iOS App
-subTitle: How to create a sticky footer using the Skeleton Boilerplate
-summary: Just a quick explanation of how I managed to create a sticky footer using the Skeleton HTML5 Boilerplate
-image: /images/posts/freefalling.jpg
+title: Major League Hacking
+subTitle: A brief description of the community first work I did with MLH
+summary:
+image: /images/posts/mlh.png
 forceHeight: false
 titleColor: black
 layout: post
 ---
-**The Problem**    
-I've always been a fan of the sticky footer. I like the idea of having all the content at the top of the page, and then some whitespace before I reach the end of the page. It creates more structure (structure is always good.)
+**Note**  
+To comply with my non-disclosure agreement, I have omitted and obfuscated confidential and proprietary information. The information in this case study is my own and does not necessarily reflect the views of Capital One.
 
-However, during the rewrite of my website, I wanted to make it responsive and maintain some concepts from the older design e.g. the sticky footer. This was a little trickier to accomplish than I had anticipated.
+This case study is broadly broken down into smaller challenges and what my role and input was to overcome those challenges and progress forward.
 
-**The Solution**    
-The solution is easier than you think, but if you were like me and got a bit caught up in Skeleton, you might have over thought it!
-
-**HTML**  
-Wrap your container div with a div called footer.
-
-{% highlight html %}
-    <div class='footer'>
-	<div class='container'>
-		<div class='half-column'>
-		</div>
-		<div class='half-column'>
-		</div>
-	</div>
-    </div>
-{% endhighlight %}
-</br>
-**CSS**  
-Apply the CSS below to the appropriate classes.
-
-{% highlight html %}
-html {
-	position: relative;
-	min-height: 100%;
-}    
-
-body {
-	margin: 0 0 170px 0; /*bottom = footer height*/
-}    
-
-.footer {
-	position: absolute;
-	left: 0;
-	bottom: 0;
-	height: 170px;
-	width: 100%;
-}
-{% endhighlight %}
-</br>
-Hope this manages to help you out! Good luck!
+**Skills**  
+Product concept, product roadmap, user process diagram, accessibility, usability, interaction design, visual design, icon design
