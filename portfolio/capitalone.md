@@ -33,8 +33,8 @@ Create a mobile app to allow customers to easily service their accounts, receive
 <img src="/images/posts/capitalone/iOSAAG.png" height="575px">
 <img src="/images/posts/capitalone/iOSPayment.png" height="575px">
 <br>
-<img src="/images/posts/capitalone/AnroidSuccessfulPayment.png" height="540px">
-<img src="/images/posts/capitalone/AndroidTransactionDetails.png" height="540px">
+<img src="/images/posts/capitalone/AnroidSuccessfulPayment.png" height="535x">
+<img src="/images/posts/capitalone/AndroidTransactionDetails.png" height="535px">
 
 **My Design Process**  
 • Understand the inital purpose of the feature  
