@@ -57,7 +57,7 @@ Please click on the image to enlarge and view my design process.
 **1. Execute an information re-architecture of the existing app**  
 The existing app allowed cutomers to view their previous transactions, account balance and next payment date, but fundamentally failed to help customers make a payment and navigate the app in a meaningful way.  
 
-Our goal was to allow customers to make a payment via the app as well as update the Information Architecture to help customers easily see and browse to the content that they need.
+Our goal was to allow customers to make a payment via the app as well as update the Information architecture (IA) to help customers easily see and browse to the content that they need.
 
 ***My Role***  
 • Implemented a process to be able to conduct user interviews in-house  
@@ -70,19 +70,19 @@ Our goal was to allow customers to make a payment via the app as well as update 
 <img src="/images/posts/capitalone/AppSitemap.png" width="650px">
 
 **2. Create an experience which respects platform norms and conventions**  
-Roughly 1/3 of customers had an Android device, however initial appetiate from the business to create a native Android application was low. It was thought this would slow down development, and add additional unnecessary risk and complexity.  
+Roughly one third of customers had an Android device, however initial appetite from the business to create a native Android application was low. It was thought this would slow down development, and add additional unnecessary risk and complexity.  
 
-My partners in Engineering were becoming increasingly demotived by the notion of a hybrid app, with heavy usage of non-native elements for the Android platform.  
+My partners in Engineering were becoming increasingly demotivated by the notion of a hybrid app, with heavy usage of non-native elements for the Android platform.  
 
 Essentially, Product was happy to progress with a subpar solution for Android, however Engineering wasn't bought in to the idea.  
 
 ***My Role***  
-• Conducted user interviews to hear first hand what customers thoughts and expectations included  
-• Studied and became a subject matter expert of Material Design by Google and how through its adoption we'd be able to create a consistant experience, even across platforms  
+• Conducted user interviews to hear first-hand what customers thoughts and expectations included  
+• Studied and became a subject matter expert of Material Design by Google and how through its adoption we'd be able to create a consistent experience, even across platforms  
 • Gathered and analysed customer device usage statistics to get buy in and reassure Product counterparts with regards to my design decisions  
 
 ***The Outcomes***  
-• Became the first financial services app on the Google Platy store to launch with Material Design principles  
+• Became the first financial services app on the Google Play store to launch with Material Design principles  
 • Gave a presentation at Mobile Notts, a meetup of mobile developers and designers in Nottingham. It was shortly after Google had announced Material Design and the community wasn't sure how to adopt and integrate it into their applications
 <script async class="speakerdeck-embed" data-id="50164c6e49d6446d8ea31bff6ec961d1" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
@@ -92,7 +92,7 @@ The existing Capital One brand guidelines and assets were created and optimised 
 The challenge was to modernise the existing standards, suggest improvements, and execute on these recommendations.  
 
 ***My Role***  
-• Worked with the existing brand colour pallet to find appropriate uses of colours throughout the apps  
+• Worked with the existing brand colour palette to find appropriate uses of colours throughout the apps  
 • Collected and studied multiple font options, considering how this could also work with feature icons, line icons, and imagery  
 • Collaborate with the existing Brand team to ensure buy in and build a long term relationship  
 
@@ -107,7 +107,7 @@ The app was put forward for accessibility review as part of the usual Capital On
 ***My Role***  
 • Deconstructed the colours and their usage criteria within the app, looking for similar hues from the enterprise colour scheme  
 • Once appropriate replacement shades were found, I compared the foreground and background colours to make sure they passed at least a WCAG 2 AA rating  
-• Implemented the new coloursclosely with parners in Engineering and Quality Assurance to quickly address non-compliant colour accessibility issue, whilst minimising UI change  
+• Implemented the new colours closely with partners in Engineering and Quality Assurance to quickly address the non-compliant colour accessibility issue, whilst minimising UI change  
 
 ***The Outcomes***  
 • The app is now compliant with WGAC 2 AA rating  
@@ -116,9 +116,9 @@ The app was put forward for accessibility review as part of the usual Capital On
 <img src="/images/posts/capitalone/Accessibility.png" width="650px">
 
 **5. Bonus work - Help improve the reputation of Capital One**  
-In early 2014, Capital One found itself in a place of change. Waterfall was quickly becoming dated, and Agile adopation was growing rapidly. The mobile app was said to be the flagship product showcasing the new, quicker, leaner, _more agile_ way of working.  
+In early 2014, Capital One found itself in a place of change. Waterfall was quickly becoming dated, and Agile adoption was growing rapidly. The mobile app was said to be the flagship product showcasing the new, quicker, leaner, _more agile_ way of working.  
 
-Capital One was relatively an unknown, particularly amongst the technology sector. The challenge was to be able to grow the reputation
+Capital One was relatively unknown, particularly amongst the technology sector. The challenge was to be able to grow the reputation
 
 ***My Role***  
 • Worked the HR and Engineering to form a group of advocates, and create a process allowing Engineers to easily speak at events and conferences  
