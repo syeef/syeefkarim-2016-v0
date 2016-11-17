@@ -10,7 +10,7 @@ layout: post
 **Note**  
 To comply with my non-disclosure agreement, I have omitted and obfuscated confidential and proprietary information. The information in this case study is my own and does not necessarily reflect the views of Capital One.
 
-This case study is broadly broken down into smaller challenges and what my role and input was to overcome and progress forward.
+This case study is broadly broken down into smaller challenges and what my role and input was to overcome those challenges and progress forward.
 
 **Skills**  
 Product concept, product roadmap, user process diagram, accessibility, usability, interaction design, visual design, icon design
@@ -19,13 +19,13 @@ Product concept, product roadmap, user process diagram, accessibility, usability
 Create a mobile app to allow customers to easily service their accounts, receive relevant information regarding account health and increase overall engagement with Capital One.
 
 **Results Achieved**  
-• Shipped both an iOS and Android app within 6 months, earlier than anticipated  
-• Evangelised and implemented a a human centred design cuslture  
-• Influenced the product roadmap to cater for user needs rather than business oriented requirements   
+• Shipped both an iOS and Android app within 6 months, earlier than anticipated.  
+• Evangelised and implemented a a human centred design culture.  
+• Influenced the product roadmap to cater for user needs rather than business oriented requirements.   
 
 >It is so easy to use and keep an eye in my spending and paying off what I need to pay. I would recommend this app and capital one every time <cite>Android User</cite>
 
->So much easier I can now control both accounts.. Love it <cite>iOS User</cite>
+>So much easier I can now control both accounts... Love it <cite>iOS User</cite>
 
 >Everything I need at quick glance and easy to pay <cite>Android User</cite>
 
@@ -37,12 +37,12 @@ Create a mobile app to allow customers to easily service their accounts, receive
 <img src="/images/posts/capitalone/AndroidTransactionDetails.png" height="535px">
 
 **My Design Process**  
-• Understand the inital purpose of the feature  
+• Understand the initial purpose of the feature  
 • Review existing solutions from both direct and non-direct competitors  
 • Create a vision piece to act as a stake in the ground, and gold standard solution  
-• Distribute a user process diagram, to be shared with wider business stakeholders and guage any concerns or recommendations  
+• Distribute a user process diagram, to be shared with wider business stakeholders and gauge any concerns or recommendations  
 • Regularly review concepts with users to gain insights and make any required adjustments  
-• Work cloesly with partners within Product and Engineering to ensure buy in and alignment from day 1  
+• Work closely with partners within Product and Engineering to ensure buy-in and alignment from day 1  
 
 <a id="links" href='/images/posts/capitalone/designprocess.png' target="_blank"><img src="/images/posts/capitalone/designprocess.png" width="650px"></a>
 Please click on the image to enlarge and view my design process.
