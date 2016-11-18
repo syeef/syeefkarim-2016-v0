@@ -12,6 +12,11 @@ To comply with my non-disclosure agreement, I have omitted and obfuscated confid
 
 This case study is broadly broken down into smaller challenges and what my role and input was to overcome those challenges and progress forward.
 
+>Syeef always takes the time to listen and take into consideration comments about the designs. His attention to details also serves him well and ensure consistency across designs.  
+He also makes a very good effort to communicate with the Nottingham team, considering his based in London. <cite>Romain Francez - iOS Engineer, Capital One</cite>
+
+>Great work this year despite often being under resource challenges and having to deliver solutions you consider to be a compromise. This shows maturity and pragmatism whilst retaining your positivity.<cite>Jack Stanton - Product Owner, Capital One</cite>
+
 **Skills**  
 Product concept, product roadmap, user process diagram, accessibility, usability, interaction design, visual design, icon design
 
