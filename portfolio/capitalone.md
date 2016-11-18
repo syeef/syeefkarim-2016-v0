@@ -53,6 +53,8 @@ Create a mobile app to allow customers to easily service their accounts, receive
 Please click on the image to enlarge and view my design process.
 <br>
 <br>
+<img src="/images/posts/capitalone/ideation.jpg" width="650px">
+<br>
 <img src="/images/posts/capitalone/wireframe.jpg" width="650px">
 <br>
 <img src="/images/posts/capitalone/CapitalOneBlueprintBlue.png" width="650px">
