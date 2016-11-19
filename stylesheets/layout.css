@@ -148,7 +148,11 @@ ul#post-title-wrapper {
 }
 /* #Link Styles
 ================================================== */
-ul#navigation a:hover {
+ul#portfolio_navigation a {
+	color: #000000;
+}
+
+ul#portfolio_navigation a:hover, ul#navigation a:hover {
 	color: #C0392B;
 }
 
