@@ -7,7 +7,7 @@ dribbbleBio: <p>A collection of some of the illustrations, wireframes and concep
 
 capitaloneImage: /images/posts/capitalone.png
 capitaloneSkills: Role - Product Designer, UX / UI, Strategy
-capitaloneBio: <p>During my time at Capital One I was heavily involved with the conception, ideation, user understanding and execution of their mobile app, for both the Android and iOS platform. The <a id="links" href='http://capitalone.co.uk/app' target="_blank">app</a> is used by customers to service their credit card by viewing transactions, making payments and address issues with their account.</p>  
+capitaloneBio: <p>During my time at Capital One I was heavily involved with the conception, ideation, user understanding and execution of their mobile app, for both the Android and iOS platform. The <a id="links" href='http://capitalone.co.uk/app' target="_blank">app</a> is used by customers to service their credit card by viewing transactions, making payments and address issues with their account.</p>
 
 <a id="links" href='/portfolio/capitalone'>Read case study...</a>
 
