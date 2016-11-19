@@ -1,7 +1,6 @@
 var  mn = $(".main-nav");
     mns = "main-nav-scrolled";
-    // hdr = $('#post-background').height();
-    hdr = 500px;
+    hdr = $('#post-background').height();
 
 $(window).scroll(function() {
   if( $(this).scrollTop() > hdr ) {
