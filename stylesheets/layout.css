@@ -228,21 +228,22 @@ h2#title-color-white, h4#title-color-white, h6#title-color-white {
 /* PORTFOLIO POST */
 .main-nav
 {
-  position: relative; 
+	position: relative; 
 }
 
 .main-nav {
-  background: #fff;
-  height: 40px;
-  z-index: 150;
+	background: #fff;
+	height: 40px;
+	z-index: 150;
 /*  margin-bottom: -180px;*/
-  box-shadow: 0 1px 0px #C0392B;
+	box-shadow: 0 1px 0px #C0392B;
 }
 
 .main-nav-scrolled {
-  position: fixed;
-  width: 940px;
-  top: 0;
+	padding-top: 10px;
+	position: fixed;
+	width: 940px;
+	top: 0;
 }
 
 /* ABOUT PAGE */
