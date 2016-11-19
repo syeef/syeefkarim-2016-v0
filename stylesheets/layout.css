@@ -51,7 +51,7 @@ h1#footer-title {
 #navigation {
 	float: right;
 }
-.main-nav a,
+ul#portfolio_navigation,
 #navigation li {
 	display: inline-block;
 	list-style-type: none;
