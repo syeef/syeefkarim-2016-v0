@@ -8,8 +8,7 @@ dribbbleBio: <p>A collection of some of the illustrations, wireframes and concep
 capitaloneImage: /images/posts/capitalone.png
 capitaloneSkills: Role - Product Designer, UX / UI, Strategy
 capitaloneBio: <p>During my time at Capital One I was heavily involved with the conception, ideation, user understanding and execution of their mobile app, for both the Android and iOS platform. The <a id="links" href='http://capitalone.co.uk/app' target="_blank">app</a> is used by customers to service their credit card by viewing transactions, making payments and address issues with their account.</p>
-
-<a id="links" href='/portfolio/capitalone'>Read case study...</a>
+<p><a id="links" href='/portfolio/capitalone'>Read case study...</a></p>
 
 studentdevImage: /images/posts/studentdev.png
 studentdevBio: <p>I often found myself in situations where I would meet people who were really excited and motivated to play with and learn a new technology but couldn’t find any good resources to initially get started.</p> <p><a id="links" href='http://studentdev.io' target="_blank">StudentDev</a> is a small project I worked on to try to change this. It's a collection of resources to help someone learn a new technology, sharpen their design skills and even find a local meet up group.</p><p>Today it is open to anyone to contribute towards, and I'm always looking to expand the collection with newer and more relevant material.</p>
