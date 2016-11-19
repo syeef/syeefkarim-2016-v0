@@ -41,7 +41,7 @@ Create a mobile app to allow customers to easily service their accounts, receive
 <img src="/images/posts/capitalone/AnroidSuccessfulPayment.png" height="535x">
 <img src="/images/posts/capitalone/AndroidTransactionDetails.png" height="535px">
 
-**My Design Process**  
+**<a name="designprocess">My Design Process</a>**  
 • Understand the initial purpose of the feature  
 • Review existing solutions from both direct and non-direct competitors  
 • Create a vision piece to act as a stake in the ground, and gold standard solution  
