@@ -240,7 +240,7 @@ h2#title-color-white, h4#title-color-white, h6#title-color-white {
 }
 
 .main-nav-scrolled {
-	padding-top: 10px;
+	padding-top: 20px;
 	position: fixed;
 	width: 940px;
 	top: 0;
