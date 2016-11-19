@@ -31,7 +31,7 @@ body {
 }
 /* #Site Styles
 ================================================== */
-h1#nav-title, h1#footer-title, .main-nav a {
+h1#nav-title, h1#footer-title, ul#portfolio_navigation a {
 	text-transform: uppercase;
 	font-size: 14px;
 	font-weight: bold;
@@ -58,11 +58,11 @@ ul#portfolio_navigation,
 	text-transform: uppercase;
 	padding: 0px 10px 0px 0px;
 }
-.main-nav a:last-child,
+ul#portfolio_navigation li:last-child,
 #navigation li:last-child {
     padding: 0px 0px 0px 0px;
 }
-.main-nav a,
+ul#portfolio_navigation a,
 #navigation li a:hover {
 	color: #C0392B;
 }
