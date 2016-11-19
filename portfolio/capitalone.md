@@ -5,7 +5,7 @@ summary:
 image: /images/posts/capitalone/CapitalOneBlueprint.png
 forceHeight: false
 titleColor: white
-layout: post
+layout: portfolio_post
 ---
 **Note**  
 To comply with my non-disclosure agreement, I have omitted and obfuscated confidential and proprietary information. The information in this case study is my own and does not necessarily reflect the views of Capital One.

@@ -1,0 +1,40 @@
+{% include header.html %}
+
+	<div class="container">
+		<div class="sixteen columns">
+
+			<div id="post-background"
+			style="background-image: url('{{ site.url }}{{ page.image }}');"
+			data-0="background-position:0px 0px; opacity:1;"
+			data-250="background-position:0px -250px; opacity:0;">
+
+		<!--	<img id="post-background" src="{{page.image}}"
+			data-0="background-position:0px 0px; opacity:1;"
+			data-250="background-position:0px -250px; opacity:0;"> -->
+
+
+			<ul id="post-title-wrapper">
+
+				<li id="post-title"><h2 id="title-color-{{ page.titleColor }}">{{ page.title }}</h2></li>
+				<br />
+				<li id="post-subTitle"><h4 id="title-color-{{ page.titleColor }}">{{ page.subTitle }}</h4></li>
+				<br />
+				<li id="post-date"><h4 id="title-color-{{ page.titleColor }}">{{page.date | date: "%B %d, %Y"}}</h4></li>
+				<br />
+				<li id="post-date"><h6 id="title-color-{{ page.titleColor }}">{{page.content | number_of_words | divided_by:150 | append: " min reading time"}}</h6></li>
+
+
+			</ul> <!---END OF POST-TITLE-WRAPPER-->
+
+			</div> <!--END OF POST-BACKGROUND-->
+
+			<hr class="maroon"/>
+
+			<div id="post-content">
+				<p>{{ content }}</p>
+			</div>
+
+		</div>
+	</div> <!--END OF CONTAINER-->
+
+{% include post_footer.html %}
