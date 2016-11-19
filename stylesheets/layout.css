@@ -31,7 +31,7 @@ body {
 }
 /* #Site Styles
 ================================================== */
-h1#nav-title, h1#footer-title {
+h1#nav-title, h1#footer-title, .main-nav a {
 	text-transform: uppercase;
 	font-size: 14px;
 	font-weight: bold;
@@ -51,15 +51,18 @@ h1#footer-title {
 #navigation {
 	float: right;
 }
+.main-nav a,
 #navigation li {
 	display: inline-block;
 	list-style-type: none;
 	text-transform: uppercase;
 	padding: 0px 10px 0px 0px;
 }
+.main-nav a:last-child,
 #navigation li:last-child {
     padding: 0px 0px 0px 0px;
 }
+.main-nav a,
 #navigation li a:hover {
 	color: #C0392B;
 }

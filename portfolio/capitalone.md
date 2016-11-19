@@ -41,8 +41,8 @@ Create a mobile app to allow customers to easily service their accounts, receive
 <img src="/images/posts/capitalone/AnroidSuccessfulPayment.png" height="535x">
 <img src="/images/posts/capitalone/AndroidTransactionDetails.png" height="535px">
 
-**My Design Process** 
-<a name="designprocess"></a> 
+**My Design Process**  
+<a name="designprocess"></a>
 • Understand the initial purpose of the feature  
 • Review existing solutions from both direct and non-direct competitors  
 • Create a vision piece to act as a stake in the ground, and gold standard solution  
@@ -63,6 +63,7 @@ Please click on the image to enlarge and view my design process.
 <img src="/images/posts/capitalone/androiddesign.jpg" width="650px">
 
 **1. Execute an information re-architecture of the existing app**  
+<a name="ia"></a>
 The existing app allowed cutomers to view their previous transactions, account balance and next payment date, but fundamentally failed to help customers make a payment and navigate the app in a meaningful way.  
 
 Our goal was to allow customers to make a payment via the app as well as update the Information architecture (IA) to help customers easily see and browse to the content that they need.
@@ -78,6 +79,7 @@ Our goal was to allow customers to make a payment via the app as well as update 
 <img src="/images/posts/capitalone/AppSitemap.png" width="650px">
 
 **2. Create an experience which respects platform norms and conventions**  
+<a name="materialdesign"></a>
 Roughly one third of customers had an Android device, however initial appetite from the business to create a native Android application was low. It was thought this would slow down development, and add additional unnecessary risk and complexity.  
 
 My partners in Engineering were becoming increasingly demotivated by the notion of a hybrid app, with heavy usage of non-native elements for the Android platform.  
@@ -110,6 +112,7 @@ The challenge was to modernise the existing standards, suggest improvements, and
 <img src="/images/posts/capitalone/FontWar.png" width="650px">
 
 **4. Improve the accessibility of the app**  
+<a name="accessibility"></a>
 The app was put forward for accessibility review as part of the usual Capital One quality process and had come back non-compliant, particularly with regards to colour contrast. Product counterparts were also reluctant to make any large noticeable changes to the UI with fears of causing customer confusion and uncertainty.  
 
 ***My Role***  
@@ -124,6 +127,7 @@ The app was put forward for accessibility review as part of the usual Capital On
 <img src="/images/posts/capitalone/Accessibility.png" width="650px">
 
 **5. Bonus work - Help improve the reputation of Capital One**  
+<a name="bonuswork"></a>
 In early 2014, Capital One found itself in a place of change. Waterfall was quickly becoming dated, and Agile adoption was growing rapidly. The mobile app was said to be the flagship product showcasing the new, quicker, leaner, _more agile_ way of working.  
 
 Capital One was relatively unknown, particularly amongst the technology sector. The challenge was to be able to grow the reputation.
