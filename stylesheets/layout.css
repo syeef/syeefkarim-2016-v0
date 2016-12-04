@@ -81,6 +81,10 @@ ul#portfolio_navigation a,
 
 /* #Page Styles
 ================================================== */
+#portfolio-wrapper {
+	border: 1px #ababab solid;
+}
+
 #article-wrapper, #portfolio-wrapper {
 	margin: 10px 0 0 0;
 	height: 100%;
